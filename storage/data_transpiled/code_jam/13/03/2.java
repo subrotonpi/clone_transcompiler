@@ -1,0 +1,72 @@
+static final String print ( final char c ) {
+  final int timeit = 1 ;
+  final int debugv = 0 ;
+  final int [ ] fairsquares = new int [ 50 ] ;
+  {
+    int i ;
+    for ( i = 1 ;
+    i < 51 ;
+    i ++ ) {
+      final boolean odd = ( i % 2 ) == 1 ;
+      final int leftSize = ( int ) Math . ceil ( i / 2 ) ;
+      final int [ ] left = new int [ leftSize ] ;
+      left [ 1 ] = 0 ;
+      left [ 0 ] = 1 ;
+      left [ 1 ] = 0 ;
+      left [ 2 ] = 0 ;
+      left [ 3 ] = 0 ;
+      left [ 4 ] = 0 ;
+      left [ 5 ] = 0 ;
+      left [ 6 ] = 0 ;
+      left [ 7 ] = 0 ;
+      left [ 8 ] = 0 ;
+      left [ 9 ] = 0 ;
+      left [ 10 ] = 0 ;
+      left [ 11 ] = 0 ;
+      left [ 12 ] = 0 ;
+      left [ 13 ] = 0 ;
+      left [ 14 ] = 0 ;
+      left [ 15 ] = 0 ;
+      left [ 15 ] = 0 ;
+      left [ 16 ] = 0 ;
+      left [ 17 ] = 0 ;
+      left [ 18 ] = 0 ;
+      left [ 19 ] = 0 ;
+      left [ 20 ] = 0 ;
+      left [ 21 ] = 0 ;
+      left [ 21 ] = 0 ;
+      left [ 22 ] = 0 ;
+      left [ 23 ] = 0 ;
+      left [ 24 ] = 0 ;
+      left [ 24 ] = 0 ;
+      left [ 25 ] = 0 ;
+      left [ 24 ] = 0 ;
+      left [ 25 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 25 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 25 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 25 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+      left [ 27 ] = 0 ;
+    }
+  }
+  

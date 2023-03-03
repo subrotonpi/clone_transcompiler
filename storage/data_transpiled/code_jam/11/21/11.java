@@ -1,0 +1,42 @@
+public static void main ( String [ ] args ) {
+  for ( int testCase = 1 ;
+  testCase <= Integer . parseInt ( readLine ( ) ) ;
+  testCase ++ ) {
+    int N = Integer . parseInt ( readLine ( ) ) ;
+    String [ ] results = new String [ N ] ;
+    for ( int i = 0 ;
+    i < N ;
+    i ++ ) results [ i ] = readLine ( ) ;
+    int [ ] wins = new int [ N ] ;
+    for ( int i = 0 ;
+    i < wins . length ;
+    i ++ ) wins [ i ] = StreamUtil . stream ( results [ i ] ) . filter ( r -> r . equals ( "1" ) ) . toArray ( ) ;
+    int [ ] games = new int [ N ] ;
+    for ( int i = 0 ;
+    i < games . length ;
+    i ++ ) games [ i ] = StreamUtil . stream ( results [ i ] ) . filter ( r -> r . equals ( "." ) ) . toArray ( ) ;
+    float [ ] wp = new float [ N ] ;
+    for ( int i = 0 ;
+    i < wins . length ;
+    i ++ ) wp [ i ] = ( float ) wins [ i ] / games [ i ] ;
+    float [ ] wp_ = new float [ N ] ;
+    for ( int j = 0 ;
+    j < games . length ;
+    j ++ ) wp_ [ j ] = new float [ N ] ;
+    for ( int i = 0 ;
+    i < wins . length ;
+    i ++ ) wp_ [ j ] = ( float ) ( wins [ i ] - ( results [ i ] . charAt ( j ) == '1' ? 1 : 0 ) ) / ( Math . max ( 1 , games [ i ] - ( results [ i ] . charAt ( j ) != '.' ? 1 : 0 ) ) ) ;
+    int [ ] owp = new int [ N ] ;
+    for ( int i = 0 ;
+    i < wins . length ;
+    i ++ ) owp [ i ] = 0 ;
+    for ( int i = 0 ;
+    i < wins . length ;
+    i ++ ) for ( int j = 0 ;
+    j < games . length ;
+    j ++ ) if ( results [ i ] . charAt ( j ) != '.' ) owp [ i ] += wp_ [ j ] ;
+    owp [ i ] /= games [ i ] ;
+    int [ ] oowp = new int [ N ] ;
+    for ( int i = 0 ;
+    i < wins . length ;
+    i ++ ) oowp [ i ] = 0

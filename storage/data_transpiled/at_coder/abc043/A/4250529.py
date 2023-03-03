@@ -1,0 +1,5 @@
+def import _scanner
+class Main ( object ) :
+    def __init__ ( self ) :
+        sc = _scanner ( )
+        self.n = sc.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.scanner.

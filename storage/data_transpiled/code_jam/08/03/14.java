@@ -1,0 +1,53 @@
+static final double calc ( double x , double rad ) throws IOException {
+  final double r = Math . sqrt ( rad * rad - x * x ) ;
+  double r = Math . min ( x , rad - 1e-9 ) ;
+  double r = Math . sqrt ( r - r ) ;
+  double r = Math . sqrt ( r ) ;
+  double r = Math . sqrt ( r ) ;
+  double r = Math . sqrt ( r ) ;
+  double result ;
+  while ( ( r = r + r - r ) >= r ) {
+    r = r + r ;
+    double y2 = r + g - r ;
+    while ( ( y2 < r ) && ( y2 < r ) ) {
+      result = calc ( r , r , r , g ) ;
+      r = Math . atan ( r / r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r ) ;
+      r = Math . sqrt ( r )

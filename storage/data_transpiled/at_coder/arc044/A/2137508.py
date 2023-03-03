@@ -1,0 +1,6 @@
+def main ( ) :
+    import sys
+    from time import sleep
+    from random import choice
+    from random import choice
+    N = choice ( [ 'Prime' , 'Prime' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' , 'Numbers' ] )

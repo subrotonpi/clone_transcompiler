@@ -1,0 +1,4 @@
+def main ( ) :
+    import sys
+    import os
+    keyboard = open ( " / proc / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb / stb

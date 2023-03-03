@@ -1,0 +1,7 @@
+def _ _ main _ _ ( ) : return sys.argv [ 0 ]
+class Debug :
+    def __init__ ( self , * args ) :
+        self.DEBUG = os.environ.get ( 'USER_DIR' ) in [ 'Dropbox' ]
+    def __init__ ( self , * args ) :
+        self.DEBUG = False
+        self._getframe ( ).f_locals [ self.f_globals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ self.f_locals [ f_locals [ self.f_locals [ f_locals [ self.f_locals [ self.f_locals [ f_locals [ self.f_locals [ f_locals [ self.f_locals [ f_locals [ self.f_locals [ f_locals [ self.f_locals [ f_locals [ self.f_locals [ f_locals [ [ self.f_locals [ f_locals [ [ self.f_locals [ [ [ self.f_locals [ [ [ [ [ self.f_locals [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [ [

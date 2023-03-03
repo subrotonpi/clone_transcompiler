@@ -1,0 +1,50 @@
+static final void binarySearch ( ) {
+  final int q = 10000 ;
+  final int [ ] S = new int [ q ] ;
+  final int [ ] T = new int [ q ] ;
+  final int [ ] ABCD = new int [ q ] ;
+  for ( int i = 0 ;
+  i < q ;
+  i ++ ) {
+    S [ i ] = Integer . parseInt ( input ( ) ) ;
+    T [ i ] = Integer . parseInt ( input ( ) ) ;
+  }
+  final int [ ] S = new int [ S . length ] ;
+  for ( int i = 0 ;
+  i < S . length ;
+  i ++ ) S [ i ] = Integer . parseInt ( input ( ) ) ;
+  final int [ ] S = new int [ S . length ] ;
+  for ( int i = 0 ;
+  i < S . length ;
+  i ++ ) S [ i ] = Integer . parseInt ( input ( ) ) ;
+  final int [ ] S = new int [ S . length ] ;
+  for ( int i = 0 ;
+  i < S . length ;
+  i ++ ) S [ i ] = Integer . parseInt ( input ( ) ) ;
+  final int [ ] S = new int [ S . length ] ;
+  for ( int i = 0 ;
+  i < S . length ;
+  i ++ ) S [ i ] = Integer . parseInt ( input ( ) ) ;
+  final int [ ] S = new int [ S . length ] ;
+  for ( int i = 0 ;
+  i < S . length ;
+  i ++ ) S [ i ] = S [ i ] ;
+  final int [ ] T = new int [ T . length ] ;
+  for ( int i = 0 ;
+  i < T . length ;
+  i ++ ) T [ i ] = T [ i ] ;
+  for ( int i = 0 ;
+  i < S . length ;
+  i ++ ) S [ i ] = S [ i ] - S [ i ] ;
+  final int [ ] S = new int [ S . length ] ;
+  for ( int i = 0 ;
+  i < S . length ;
+  i ++ ) S [ i ] = S [ i ] - S [ i ] ;
+  final int [ ] S = new int [ S . length ] ;
+  for ( int i = 0 ;
+  i < S . length ;
+  i ++ ) S [ i ] = S [ i ] - S [ i ] ;
+  for ( int i = 0 ;
+  i < T . length ;
+  i ++ ) S [ i ] = T [ i ] - T [ i ] ;
+}

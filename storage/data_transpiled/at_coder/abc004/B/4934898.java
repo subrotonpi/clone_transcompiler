@@ -1,0 +1,25 @@
+[ 4 ] ;
+e = new int [ 4 ] ;
+e [ 3 ] = new int [ 4 ] ;
+e [ 2 ] = new int [ 3 ] ;
+e [ 1 ] = new int [ 4 ] ;
+e [ 0 ] = new int [ 4 ] ;
+e [ 1 ] = new int [ 4 ] ;
+e [ 2 ] = new int [ 4 ] ;
+e [ 0 ] = new int [ 4 ] ;
+e [ 1 ] = new int [ 4 ] ;
+e [ 0 ] = new int [ 4 ] ;
+e [ 1 ] = new int [ 4 ] ;
+e [ 2 ] = new int [ 4 ] ;
+e [ 3 ] = new int [ 4 ] ;
+e [ 4 ] = new int [ 4 ] ;
+e [ 4 ] = new int [ 4 ] ;
+e [ 4 ] = new int [ 4 ] ;
+e [ 4 ] = new int [ 4 ] ;
+e [ 4 ] = new int [ 4 ] ;
+e [ 4 ] = new int [ 4 ] ;
+e [ 4 ] = new int [ 4 ] ;
+e [ 4 ] = new int [ 4 ] ;
+e [ 4 ] = new int [ 4 ] ;
+e [ 4 ] = new int [ 4 ] ;
+e [ 4 ] = new int [ 4

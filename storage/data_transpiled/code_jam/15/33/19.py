@@ -1,0 +1,114 @@
+def _ import SPACETOKEN os.write ( ) : SPACETOKEN print ( "Case #%d: %s" % ( t , r ) )
+import sys
+import os
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+import csv
+from csv
+import csv
+import csv
+from csv
+import csv
+from csv
+import csv
+import csv
+
+class ProblemC ( object ) :
+    def __init__ ( self ) :
+        self._import_module_func = None
+    def __init__ ( self , * args ) :
+        self._import_module_func = None
+        self._import_module_func = None
+    def import_func ( self ) :
+        self._import_module_func = import_func

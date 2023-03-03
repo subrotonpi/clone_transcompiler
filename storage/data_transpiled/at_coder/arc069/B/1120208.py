@@ -1,0 +1,57 @@
+def main ( ) : return True
+class Main ( ) :
+    def __init__ ( self , * args ) :
+        self.sc = MyScanner ( )
+        self.sc2 = Scanner ( )
+        start = time.time ( )
+        fin = time.time ( )
+        MOD = 1000000007
+        dx = [ 1 , 0 , 0 , - 1 ]
+        def __init__ ( self , * args ) :
+            self.s = args [ 0 ]
+            self.s = args [ 1 ]
+            self.s = args [ 2 ]
+            self.s = args [ 3 ]
+            self.s = args [ 4 ]
+            self.s = args [ 5 ]
+            self.s = args [ 6 ]
+            self.s = args [ 7 ]
+            self.s = args [ 8 ]
+            self.s = args [ 9 ]
+            self.s = args [ 8 ]
+            self.s = args [ 9 ]
+            self.s = args [ 8 ]
+            self.s = args [ 9 ]
+            self.s = args [ 8 ]
+            self.s = args [ 9 ]
+            self.s = args [ 8 ]
+            self.s = args [ 9 ]
+            self.s = args [ 8 ]
+            self.s = args [ 9 ]
+            self.s = args [ 8 ]
+            self.s = args [ 9 ]
+            self.s = args [ 8 ]
+            self.s = args [ 9 ]
+            self.s = args [ 9 ]
+            self.s = args [ 10 ]
+            self.s = args [ 11 ]
+            self.s = args [ 12 ]
+            self.s = args [ 13 ]
+            self.s = args [ 14 ]
+            self.s = args [ 13 ]
+            self.s = args [ 14 ]
+            self.s = args [ 14 ]
+            self.s = args [ 15 ]
+            self.s = args [ 16 ]
+            self.s = args [ 16 ]
+            self.s = args [ 17 ]
+            self.s = args [ 18 ]
+            self.s = args [ 18 ]
+            self.s = args [ 19 ]
+            self.s = args [ 18 ]
+            self.s = args [ 19 ]
+            self.s = args [ 18 ]
+            self.s = args [ 19 ]
+            self.s = args [ 19 ]
+            self.s = args [ 18 ]
+            self.s = args [ 19

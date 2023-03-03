@@ -1,0 +1,11 @@
+@ VisibleForTesting static int bestScore = - 1 ;
+/* turn off the first turn on the second turn off */
+if ( turn . get ( 2 ) > 0 ) {
+  /* turn off the turn on the first turn off */
+  if ( turn . get ( 2 ) > 0 ) {
+    /* turn off the turn off */
+    return turn . get ( 2 ) ;
+  }
+  HashSet < Pair > known = new HashSet < > ( ) ;
+  /* turn off the turn off */
+  if ( known . contains ( Pair . of ( Pair . of ( Pair . of ( Pair . of ( Pair . of ( Pair . of ( Pair . of ( Pair . of ( Pair . of ( Pair . of ( Pair . of ( Pair . of ( Pair . of ( Pair . of ( Pair . of ( Pair . Of ( Pair . Of ( Matcher . Of ( Matcher . Of ( Matcher . Of ( Matcher . Matcher . Matcher . Matcher ( Matcher . Matcher . Matcher ( Matcher . Matcher . Matcher . Matcher ( Matcher . Matcher . Matcher . Matcher ( Matcher . Matcher . Matcher . Matcher . Matcher ( Matcher . Matcher . Matcher . Matcher . Matcher . Matcher ( Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher ( Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher ( Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher . Matcher .

@@ -1,0 +1,44 @@
+public static int [ ] [ ] readint ( ) {
+  try {
+    final Scanner in = new Scanner ( System . in ) ;
+    int [ ] [ ] openSet = new int [ in . nextInt ( ) ] [ ] ;
+    int [ ] [ ] openSet = new int [ in . nextInt ( ) ] [ ] ;
+    int [ ] [ ] allMatch = new int [ in . nextInt ( ) ] [ ] ;
+    in . nextLine ( ) ;
+    int [ ] [ ] allMatch = new int [ in . nextInt ( ) ] [ ] ;
+    for ( int i = 0 ;
+    i < allMatch . length ;
+    i ++ ) allMatch [ i ] [ 0 ] = in . nextInt ( ) ;
+    for ( int i = 0 ;
+    i < allMatch [ i ] [ 0 ] ;
+    i ++ ) allMatch [ i ] [ 0 ] = in . nextInt ( ) ;
+    for ( int i = 0 ;
+    i < allMatch [ i ] [ 0 ] ;
+    i ++ ) allMatch [ i ] [ i ] = in . nextInt ( ) ;
+    for ( int j = 0 ;
+    j < allMatch [ i ] [ j ] ;
+    j ++ ) allMatch [ i ] [ j ] = in . nextInt ( ) ;
+    for ( int i = 0 ;
+    i < allMatch . length ;
+    i ++ ) allMatch [ i ] [ j ] = in . nextInt ( ) ;
+    for ( int j = 0 ;
+    j < allMatch [ i ] [ 0 ] ;
+    j ++ ) allMatch [ i ] [ j ] = in . nextInt ( ) ;
+    for ( int i = 0 ;
+    i < allMatch . length ;
+    i ++ ) allMatch [ i ] [ j ] = in . nextInt ( ) ;
+    for ( int j = 0 ;
+    j < allMatch [ i ] [ 0 ] ;
+    j ++ ) allMatch [ i ] [ j ] = in . nextInt ( ) ;
+    for ( int i = 0 ;
+    i < allMatch . length ;
+    i ++ ) allMatch [ i ] [ j ] = in . nextInt ( ) ;
+    for ( int j = 0 ;
+    j < allMatch [ i ] [ j ] ;
+    j ++ ) allMatch [ i ] [ j ] = in . nextInt ( ) ;
+    for ( int i = 0 ;
+    i < allMatch . length ;
+    i ++ ) allMatch [ i ] [ j ] = in . nextInt ( ) ;
+    for ( int i = 0 ;
+    i < allMatch . length ;
+    i ++ ) allMatch [ i ]

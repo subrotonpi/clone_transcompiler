@@ -1,0 +1,38 @@
+static final Scanner in = new Scanner ( System . in ) {
+  boolean foundPlacement ;
+  int bi ;
+  int t ;
+  int N ;
+  int W ;
+  int L ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] [ 3 ] ;
+  int R [ ] [ ] = new int [ 3 ] ;
+  System

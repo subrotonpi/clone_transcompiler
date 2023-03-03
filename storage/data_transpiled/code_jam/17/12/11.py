@@ -1,0 +1,140 @@
+def _ _ '' '
+import sys
+import os
+import sys
+import os
+import locale
+import string
+import string
+import string
+import scanner
+import scanner
+import scanner
+import scanner
+import scanner
+import scanner
+import scanner
+import scanner
+import scanner
+import os
+import sys
+import string
+import scanner
+import scanner
+import scanner
+import scanner
+import scanner
+import scanner
+import string
+import string
+import string
+import string
+import string
+import string
+import string
+import string
+import string
+import string
+import string
+import string
+import string
+import StringIO
+import struct
+import struct
+import struct
+import string
+import string
+import string
+import struct
+import struct
+import struct
+from struct
+import string
+import string
+import string
+import string
+import struct
+import struct
+from struct
+import struct
+import string
+import struct
+from struct
+import struct
+import string
+import struct
+import struct
+import struct
+import struct
+import string
+import struct
+import struct
+import struct
+import struct
+import struct
+import struct
+import struct
+import struct
+import struct
+import struct
+import struct
+import struct
+import struct
+import struct
+import struct
+import struct
+import struct
+import string
+import struct
+class Scanner :
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    import struct
+    from struct
+    import struct
+    from struct
+    import struct
+    from struct
+    import struct
+    from struct
+    import struct
+    from struct
+    import struct
+    from struct
+    import struct
+    from struct
+    import struct
+    from struct
+    import struct
+    from struct SPACETOKEN import SPACETOKEN struct ; SPACETOKEN struct

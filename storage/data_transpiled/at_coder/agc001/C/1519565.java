@@ -1,0 +1,45 @@
+static final double [ ] [ ] init ( int n , int k2 , int n , double [ ] [ ] v , int [ ] [ ] array , int [ ] [ ] [ ] map ) {
+  System . setOut ( new PrintStream ( System . out ) ) ;
+  final double inf = 10 * 20 ;
+  final double gosa = 1.0 / 10 * 10 ;
+  final int mod = 10 * 9 + 7 ;
+  {
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    li [ 0 ] = li [ 0 ] ;
+    li [ 1 ] = li [ 1 ] ;
+    li [ 0 ] = li [ 2 ] ;
+    li [ 1 ] = li [ 3 ]

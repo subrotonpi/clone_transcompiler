@@ -1,0 +1,1 @@
+public static void print ( int sum ( f ( x * y ) //f(x*y-s)//f(s)*f(s)//f(L)//f(D)*(R-X+1)*(C-Y+1)*(-1)**(a+b))){for(inta=0;a<=3;a++)for(intb=0;b<=1;b++)for(intx=0;x<=3;x++){sum(sum(f(x-a),f(y-b),s));}}

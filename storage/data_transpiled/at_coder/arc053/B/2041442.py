@@ -1,0 +1,36 @@
+def _ _ main _ _ ( ) : return sys.stdin.read ( )
+def main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) : return sys.stdin.readline ( )
+def _main ( ) :
+    def _main ( ) :
+        def _main ( ) :
+            b = _main ( )
+            while not ( _main ( ) and _main ( ) ) :
+                b = _main ( )
+                b = _main ( )
+            return b
+        return _main ( )
+    return _main

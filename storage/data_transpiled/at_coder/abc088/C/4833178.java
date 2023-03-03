@@ -1,0 +1,29 @@
+{
+  c = Arrays . asList ( new LinkedList < Integer > ( ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add ( new Integer ( input . nextInt ( ) ) ) ;
+  c . add (

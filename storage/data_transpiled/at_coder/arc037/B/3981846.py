@@ -1,0 +1,74 @@
+def _ _ new _ _ ( ) : return
+class DisjointSet ( ) :
+    def __init__ ( self , n ) :
+        self.n = n
+    def next_longarray_index ( self ) :
+        self.n = randint ( 1 , n )
+    def make_set ( self ) :
+        self.n = x
+        self.n = n
+    def make_longarray_dec ( self ) :
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x
+        self.n = x

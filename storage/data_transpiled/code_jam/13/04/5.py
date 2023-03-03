@@ -1,0 +1,53 @@
+def _graphDemo ( chest , chest_accesskeys , chest_opened ) :
+    from pygrapht.graph import SimpleDirectedGraph , DefaultEdge
+    from pygrapht.graph import Graph
+    from pygrapht.graph import BreadthFirstIterator , DefaultEdge
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import BreadthFirstIterator , DefaultEdge
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph
+    from pygrapht.graph import Graph

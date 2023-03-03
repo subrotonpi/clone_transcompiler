@@ -1,0 +1,6 @@
+# follow this steps 
+- run antlr parser to extract features for all files code inside java_runner
+- run file1 check_parsable_set_id inside storage
+- run pair1 set_class_common_id inside storage
+- run the java pair creator inside java_runner
+

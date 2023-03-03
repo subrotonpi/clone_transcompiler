@@ -1,0 +1,61 @@
+public static void UnionFind ( ) {
+  class UnionFind {
+    int [ ] table = new int [ n ] ;
+    int parent ;
+    int root2 ;
+    UnionFind ( int a , int b ) {
+      int root1 ;
+      int X ;
+      int Y ;
+      int X ;
+      int Y ;
+      int X ;
+      int Y ;
+      int X ;
+      int X ;
+      int Y ;
+      int X ;
+      int X ;
+      int Y ;
+      int X ;
+      int X ;
+      int X ;
+      int Y ;
+      int E ;
+      int X ;
+      int X ;
+      int X ;
+      int Y ;
+      int M ;
+      {
+        X = Integer . parseInt ( input . nextLine ( ) ) ;
+        X = Integer . parseInt ( input . nextLine ( ) ) ;
+        X = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        X = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        X = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        X = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        X = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        X = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine ( ) ) ;
+        Y = Integer . parseInt ( input . nextLine

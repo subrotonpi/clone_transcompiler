@@ -1,0 +1,10 @@
+def _import ( ) : return _import ( )
+import os
+import os
+import os
+import os
+import os
+import codecs
+import codecs
+import codecs
+import _import ( codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 , codecs.BOM_UTF8 ,

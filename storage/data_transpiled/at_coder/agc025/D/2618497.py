@@ -1,0 +1,132 @@
+def _main ( * args ) : return sys.stdin.write
+import io
+import sys
+import os
+import sys
+import Queue
+import sys
+import sys
+import sys
+import sys
+import sys
+import sys
+import sys
+import sys
+import time
+from struct import calcsize , unpack , unpack , unpack , unpack
+class Main ( ) :
+    def read ( self ) :
+        if self._eof :
+            return True
+        else :
+            return False
+    def read ( self ) :
+        return self._eof
+    def write ( self , * args ) :
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N
+        global N = N
+        N = N
+    

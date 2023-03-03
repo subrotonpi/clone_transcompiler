@@ -1,0 +1,31 @@
+static final String solve ( int x , String string ) throws IOException {
+  final Map < String , Integer > map = new HashMap < String , Integer > ( ) ;
+  map . put ( new String ( "1" ) , new Integer ( "1" ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 0 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 0 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 0 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 0 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 0 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 0 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 0 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 0 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 0 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map . put ( new String ( "1" ) , new Integer ( 1 ) ) ;
+  map

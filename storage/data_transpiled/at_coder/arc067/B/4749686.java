@@ -1,0 +1,8 @@
+static final int [ ] getBase ( ) {
+  System . setSecurityManager ( new SecurityManager ( ) {
+    private static final long serialVersionUID = 1L ;
+    private static final long INF = 10 * 18 ;
+    private static final long MOD = 10 * 9 + 7 ;
+    @ Override public int [ ] getBase ( ) {
+      return new int [ ] {
+        INF , MOD , MOD , INF , MOD , INF , MOD , INF , MOD , INF , MOD , INF , MOD , MOD , INF , INF , MOD , MOD , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF , INF

@@ -1,0 +1,15 @@
+public static int a ( int b , int x ) {
+  int a = Integer . parseInt ( input . nextLine ( ) ) ;
+  int b = Integer . parseInt ( input . nextLine ( ) ) ;
+  int x = Integer . parseInt ( input . nextLine ( ) ) ;
+  if ( a > x ) {
+    System . out . println ( "NO" ) ;
+  }
+  else if ( ( a + b ) < x ) {
+    System . out . println ( "NO" ) ;
+  }
+  else {
+    System . out . println ( "YES" ) ;
+  }
+  return a ;
+}

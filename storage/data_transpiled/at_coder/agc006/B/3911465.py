@@ -1,0 +1,6 @@
+def solve ( N , x ) :
+    import sys
+    from itertools import chain
+    from itertools import chain
+    if N == 2 :
+        return chain ( chain ( chain ( chain ( chain ( chain ( chain ( [ x ] , x ) , x ) , x ) , chain ( chain ( chain ( [ x ] , x ) , x ) , chain ( chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain ( [ x ] , x ) , chain (

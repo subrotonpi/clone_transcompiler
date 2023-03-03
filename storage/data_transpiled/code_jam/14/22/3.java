@@ -1,0 +1,63 @@
+@ Sys public static int from ( ) {
+  int T = Integer . parseInt ( System . console ( ) . readLine ( ) ) ;
+  {
+    String t = Integer . toBinaryString ( input ) ;
+    t = "0" + t ;
+    for ( int i = 0 ;
+    i < 32 ;
+    i ++ ) {
+      if ( t . charAt ( i ) == '1' ) {
+        StringBuilder sb = new StringBuilder ( t . substring ( 0 , i ) ) ;
+        sb . append ( "0" ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t ) ;
+        sb . append ( 'x' ) ;
+        sb . append ( t

@@ -1,0 +1,24 @@
+### Setup for linux
+cd /usr/lib/x86_64-linux-gnu/
+sudo ln -s libclang-10.so.1 libclang-14.so
+
+### Example:
+sudo python transcoder/translate.py - -src_lang java - -tgt_lang python - -model_path model_1.pth > code2.java```
+
+#modification required to run on CPU
+
+
+#model/__init__.py
+#all occurance of map_location : map_location = torch.device('cpu')
+
+#remove all occurance of .cuda()
+#code_tokenizer line 24:
+
+#clang.cindex.Config.set_library_path('/usr/lib/llvm-7/lib/')
+from sys import platform
+if platform == "linux" or platform == "linux2":
+    clang_path = '/usr/lib/x86_64-linux-gnu/libclang-14.so'
+elif platform == "darwin":
+    clang_path = '../../venv/lib/python3.9/site-packages/clang/native/libclang.dylib'
+elif platform == "win32":
+    print('not configured...')

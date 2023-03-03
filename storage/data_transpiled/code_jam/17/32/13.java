@@ -1,0 +1,2 @@
+static final void solve ( ) {
+}

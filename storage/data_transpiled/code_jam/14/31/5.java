@@ -1,0 +1,90 @@
+@ VisibleForTesting static void init ( ) {
+  final int N = 10000 ;
+  final String [ ] args = new String [ ] {
+    "--" + args [ 0 ] , "--" + args [ 1 ] , "--" + args [ 2 ] , "--" + args [ 3 ] }
+    ;
+    final String filepref = "--" + args [ 0 ] ;
+    final String filename = "--" + args [ 1 ] ;
+    final String filename = "--" + args [ 2 ] ;
+    final String filename = "--" + args [ 3 ] ;
+    final String filename = "--" + filename ;
+    final String filename = filename ;
+    final String filename = filename ;
+    final String filename = filename ;
+    final String filename = filename ;
+    final String filename = filename ;
+    final String [ ] answers = {
+      filename , filename }
+      ;
+      final Pool < Process > pool = new Pool < Process > ( numprocs ) ;
+      pool . mapAsync ( new MultiCase ( ) {
+        private int i ;
+        private int i ;
+        private int i ;
+        private int k ;
+        private int i ;
+        private int j ;
+        private int k ;
+        private int k ;
+        private int k ;
+        private int j ;
+        private int k ;
+        private int k ;
+        private int k ;
+        private int k ;
+        private int j ;
+        private int k ;
+        private int k ;
+        private int k ;
+        private int k ;
+        private int j ;
+        private int k ;
+        private int k ;
+        private int k ;
+        private int k ;
+        private int j ;
+        private int k ;
+        private int k ;
+        private int k ;
+        private int k ;
+        private int k ;
+        private int j ;
+        private k ;
+        private int k ;
+        private k ;
+        private k = 0 ;
+        private j = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+        private k = 0 ;
+      }
+      

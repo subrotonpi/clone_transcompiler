@@ -1,0 +1,13 @@
+def _import ( ) : return _import ( )
+from io import StringIO
+from io import BufferedReader , BufferedWriter , InputStreamReader
+from io import BufferedWriter , InputStreamReader , InputStreamReader
+from io import BufferedReader , InputStreamReader , InputStreamReader
+from io import BufferedReader , BufferedWriter , InputStreamReader , InputStreamReader
+from io import BufferedReader , InputStreamReader , InputStreamReader , InputStreamReader
+from io import BufferedReader , InputStreamReader , InputStreamReader , InputStreamReader
+from io import BufferedReader , InputStreamReader , InputStreamReader , InputStreamReader , Reader
+from io import BufferedReader , InputStreamReader , InputStreamReader , InputStreamReader , Reader
+from io import BufferedReader , InputStreamReader , InputStreamReader , InputStreamReader , Reader
+from io import BufferedReader , InputStreamReader , InputStreamReader , InputStreamReader , Reader
+from io import BufferedReader , InputStreamReader , InputStreamReader , InputStreamReader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , Reader , , Reader , Reader , , Reader , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , , Reader , Reader , , Reader , , Reader , Reader , , Reader , Reader , Reader , , Reader , Reader , Reader , Reader , Reader ,

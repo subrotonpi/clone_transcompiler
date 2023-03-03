@@ -1,0 +1,10 @@
+def main ( ) :
+    import os
+    import sys
+    import random
+    import numpy as np
+    import numpy.linalg as linalg
+    import numpy.random
+    import random
+    INF = 10000000
+    with open ( '../ data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data / data

@@ -1,0 +1,1 @@
+public static void print ( int sum ( f ( x * y , x * y - s ) //f(s)*f(s,L)//f(D)*(R-X+1)*(C-Y+1)*(-1)**(a+b%2))){for(inta=0;a<3;a++)for(intb=0;b<1;b++)for(intx=X-a;x<=Y-b;x++)f(x,y,s){System.out.println(min(x,y)>0&&s<=(x*y))%(10**9+7);}}

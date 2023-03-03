@@ -1,0 +1,45 @@
+def _ _ main _ _ ( ) : return sys.stdin.read ( )
+def _readline ( ) : return sys.stdin.readline ( )
+def _readline ( ) : return sys.stdin.readline ( )
+def _readline ( ) : return sys.stdin.readline ( )
+def _readline ( ) : return sys.stdin.readline ( )
+def _readline ( ) : return sys.stdin.readline ( )
+def _readline ( ) : return sys.stdin.readline ( )
+def _readline ( ) : return sys.stdin.readline ( )
+def _readline ( ) : return sys.stdin.readline ( )
+def _has_next_line ( ) :
+    while _has_next_line ( ) and _readline ( ) :
+        ptr += 1
+def _readline ( ) :
+    if not _has_next_line ( ) :
+        raise StopIteration
+    s = [ ]
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop ( ) )
+    s.append ( s.pop (

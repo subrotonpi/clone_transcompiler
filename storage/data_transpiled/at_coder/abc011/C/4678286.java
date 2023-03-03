@@ -1,0 +1,1 @@
+, n , * g = eval ( "int(input)+2," + ");d=newint[500];for(inti=0;i<n;i++)d[i+3]=Math.min(d[i],999);System.out.println(" YNEOS " . substring ( d [ n ] > 100 , 0 , 2 ) ) ; }

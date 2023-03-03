@@ -1,0 +1,8 @@
+public static List < Integer > digits ( int x ) {
+  List < Integer > r = new ArrayList < > ( ) ;
+  while ( x > 0 ) {
+    r . add ( x % 10 ) ;
+    x /= 10 ;
+  }
+  return Collections . unmodifiableList ( r ) ;
+  / * ▁ Is ▁ this ▁ a ▁ digit ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁ digits ▁ of ▁ the ▁

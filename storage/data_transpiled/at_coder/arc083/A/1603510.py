@@ -1,0 +1,71 @@
+def import import sys , StringIO , TaskC
+from os import fdopen , fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import remove
+import sys
+from os import remove
+import os
+from os import remove
+from os import remove
+from os import remove
+from os import remove
+from os import remove
+from os import remove
+from os import rename
+from os import remove
+from os import remove
+from os import remove
+from os import remove
+from os import remove
+from os import rename
+from os import remove
+from os import remove
+from os import remove
+from os import fdopen
+from os import remove
+from os import fdopen
+from os import remove
+from os import remove
+from os import remove
+from os import remove
+from os import remove
+from os import remove
+from os import remove
+from os import remove
+from os import remove
+remove = os
+try :
+    remove ( remove )

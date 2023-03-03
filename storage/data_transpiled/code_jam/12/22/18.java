@@ -1,0 +1,5 @@
+@ VisibleForTesting static void valid ( Tuple2 < Integer , Integer > tuple , int X , int Y ) throws IOException {
+  final int x = tuple . _1 ;
+  final int y = tuple . _2 ;
+  final double airGap = tuple . _1 ;
+  final double wait = Math . max ( ( x >= 0 ) ? ( y >= 0 ) ? ( x < X ) ? ( y < Y ) ? ( y - 1 ) : ( x < Y ) ? ( y < X ) ? ( y - 1 ) : ( x < Y ) ? ( y < Y ) ? ( y - 1 ) : ( x < Y ) ? ( y < Y ) ? ( y - 1 ) : ( x < Y ) ? ( y < Y ) ? ( y - 1 ) : ( x < Y ) ? ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) : ( y < Y ) ? ( y - 1 ) ? ( y - 1 ) : ( y - 1

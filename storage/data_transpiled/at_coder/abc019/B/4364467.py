@@ -1,0 +1,4 @@
+def main ( ) :
+    import sys
+    import os
+    s = os.popen ( " cat SPACETOKEN 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat ' 'cat 'cat 'cat 'cat 'cat 'cat 'cat 'cat ' 'cat 'cat 'cat 'cat ' 'cat 'cat 'cat ' 'cat 'cat 'cat ' 'cat 'cat ' 'cat 'cat ' 'cat 'cat 'cat ' 'cat 'cat ' 'cat 'cat ' 'cat 'cat ' 'cat 'cat ' 'cat 'cat ' 'cat 'cat ' 'cat 'cat ' 'cat ' 'cat 'cat ' 'cat 'cat ' 'cat 'cat 'cat ' 'cat 'cat ' 'cat 'cat ' 'cat 'cat 'cat ' 'cat ' cat

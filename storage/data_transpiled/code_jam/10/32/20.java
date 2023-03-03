@@ -1,0 +1,40 @@
+static final String getWordString ( ) throws IOException {
+  String getline = new String ( f ) ;
+  String gettoken = new String ( f ) ;
+  int getInt = new int ( getline ) ;
+  int getInt = new int ( getInt ) ;
+  int getInt = new int ( getInt ) ;
+  int getInt = new int ( getInt ) ;
+  int getInt = new int ( getInt ) ;
+  int getInt = new int ( getInt ) ;
+  int getInt = new int ( getInt ) ;
+  int getInt = new int ( getInt ) ;
+  int [ ] ints = map ( getInt , getInt ) ;
+  int product = l -> Math . pow ( l , 2 ) ? Integer . parseInt ( l ) : 1 ;
+  int factorial = n -> product ( xrange ( n , 1 , - 1 ) ) ;
+  int nPr = n -> product ( xrange ( n , n - r , - 1 ) ) ;
+  int nCr = n -> nPr ( n , r ) / factorial ( r ) ;
+  int nMr = l -> factorial ( Math . pow ( l , 2 ) ) / product ( map ( factorial , l ) ) ;
+  int gcd = gcd ( x , y -> x % y != 0 ) ;
+  int lcm = gcd ( x , y -> x * y / gcd ( x , y ) ) ;
+  int [ ] gcd2 = new int [ N ] ;
+  int a = 0 , b = 0 ;
+  int [ ] gcd2 = new int [ N ] ;
+  int [ ] gcd2 = new int [ N ] ;
+  int [ ] gcd2 = new int [ N ] ;
+  int [ ] gcd3 = new int [ N ] ;
+  int [ ] gcd4 = new int [ N ] ;
+  int [ ] gcd4 = new int [ N ] ;
+  int [ ] gcd5 = new int [ N ] ;
+  int [ ] gcd6 = new int [ N ] ;
+  int [ ] gcd7 = new int [ N ] ;
+  int [ ] gcd6 = new int [ N ] ;
+  int [ ] gcd7 = new int [ N ] ;
+  for ( int cases = xrange ( 0 , N ) ;
+  cases -- ) {
+    int ans = 0 ;
+    int L = getWordCount ( gcd2 , gcd3 ) ;
+    int P = getWordCount ( gcd4 , gcd6 ) ;
+    int C = getWordCount ( gcd7 , gcd6 ) ;
+    a = 0 , b = 0 , s = 0 ;
+    while (

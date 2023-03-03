@@ -1,0 +1,65 @@
+def code_pyam_round1B ( ) :
+    import _readline
+    import _readline
+    import _readline
+    import _readline
+    import _readline.readline
+    import _readline.readline.read
+    import _readline.readline.read
+    import _readline.readline.read
+    import _readline.readline.readline
+    import _readline.readline.read
+    import _readline.readline.readline
+    import _readline.readline.read
+    import _readline.readline.readline
+    import _readline.readline.read
+    import _readline.readline.readline
+    import _readline.readline.read
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    import _readline.readline.readline
+    from _readline.readline.readline import readline
+    from _readline.readline import readline.readline
+    from _readline.readline import readline
+    from _readline.readline import readline

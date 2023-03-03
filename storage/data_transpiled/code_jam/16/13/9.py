@@ -1,0 +1,59 @@
+def _ _ init _ _ ( ) :
+    import random
+    import sys
+    from itertools import count , islice
+    from itertools import chain , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import chain , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import chain , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import chain , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import chain , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import chain , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import chain , islice
+    from itertools import longest , islice
+    from itertools import islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import islice , islice
+    from itertools import longest , islice
+    from itertools import islice , islice , islice
+    from itertools import longest , islice
+    return islice , islice , islice

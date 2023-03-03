@@ -1,0 +1,55 @@
+static final String solve ( int n , int p , int [ ] args ) {
+  final int [ ] cache = new int [ n ] ;
+  int n = n ;
+  int p = n ;
+  int [ ] arr = readInts ( ) ;
+  int ans = solve ( n , p , arr ) ;
+  System . out . println ( "Case #" + ( j + 1 ) + ": " + ans ) ;
+  if ( args . length == 0 ) {
+    final ByteArrayOutputStream baos = new ByteArrayOutputStream ( ) ;
+    PrintStream ps = new PrintStream ( baos ) ;
+    ps . println ( " " + args [ 0 ] ) ;
+    ps . println ( " " + args [ 0 ] ) ;
+    System . setOut ( ps ) ;
+    System . setErr ( ps ) ;
+    final PrintStream pr = new PrintStream ( baos ) ;
+    final PrintStream epr = new PrintStream ( epr ) ;
+    final PrintStream die = new PrintStream ( epr ) ;
+    pr . println ( " " + args [ 0 ] ) ;
+    System . setOut ( pr ) ;
+    System . setErr ( epr ) ;
+    System . setOut ( die ) ;
+    System . setOut ( pr ) ;
+    System . setErr ( die ) ;
+    System . setOut ( epr ) ;
+    System . setOut ( pr ) ;
+    System . setErr ( epr ) ;
+    System . setOut ( die ) ;
+    System . setOut ( pr ) ;
+    System . setOut ( epr ) ;
+    System . setErr ( die ) ;
+    System . setOut ( pr ) ;
+    System . setOut ( epr ) ;
+    System . setOut ( pr ) ;
+    System . setOut ( epr ) ;
+    System . setErr ( die ) ;
+    System . setOut ( pr ) ;
+    System . setOut ( pr ) ;
+    System . setOut ( pr ) ;
+    System . setErr ( epr ) ;
+    System . setOut ( die ) ;
+    System . setOut ( pr ) ;
+    System . setOut ( pr ) ;
+    System . setErr ( die ) ;
+    System . setOut ( pr ) ;
+    System . setOut ( pr ) ;
+    System . setOut ( pr ) ;
+    System . setErr ( die ) ;
+    System . setOut ( pr ) ;
+    System . setOut ( pr ) ;
+    System . setErr ( die ) ;
+  }
+  final String readStr = new String ( input ) ;
+  final String [ ] readStrs = new String [ n ] ;
+  Arrays . fill ( readStrs , ( String ) null ) ;
+  Arrays .

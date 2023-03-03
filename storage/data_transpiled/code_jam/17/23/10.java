@@ -1,0 +1,50 @@
+@ BeforeClass public static void setup ( ) {
+  System . setSecurityManager ( new SecurityManager ( ) ) ;
+  System . setSecurityManager ( new RMISecurityManager ( ) ) ;
+  System . setSecurityManager ( new RMISecurityManager ( ) ) ;
+  System . setSecurityManager ( new RMISecurityManager ( ) ) ;
+  System . out . println ( "Wrong outcome!" ) ;
+  System . out . println ( "Case #{0}:" . format ( cn ) ) ;
+  System . out . println ( "Outcome:" ) ;
+  if ( until_first_fail ) {
+    System . out . println ( "\n\n" ) ;
+  }
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out . println ( "" ) ;
+  System . out

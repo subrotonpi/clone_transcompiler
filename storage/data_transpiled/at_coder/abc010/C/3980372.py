@@ -1,0 +1,7 @@
+def _import ( ) : return _import ( )
+from os import urandom
+from os import fdopen
+from os import fdopen
+from os import fdopen
+from os import urandom
+from math import sqrt , pow , exp , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log , log

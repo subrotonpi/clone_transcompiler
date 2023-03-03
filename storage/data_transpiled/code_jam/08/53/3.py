@@ -1,0 +1,56 @@
+def _import ( ) :
+    import os
+    import sys
+    class Cheating ( object ) :
+        def __init__ ( self ) :
+            self.problemID = __name__.lower ( )
+            self.problemType = 'large'
+            self.stdin = open ( '%s_%s.stdin' % ( self.problemID , self.problemType ) , 'r' )
+            self.stdout = open ( '%s_%s.stdout' % ( self.problemID , self.problemType ) , 'w' )
+            self.dx = [ - 1 , 0 , 1 , - 1 , 0 , 1 ]
+            self.h2 = [ - 1 , - 1 , 1 , 1 , 1 ]
+            self.lm = [ ]
+            self.rm = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs = [ ]
+            self.rfs =

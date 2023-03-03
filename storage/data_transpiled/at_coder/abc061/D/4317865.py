@@ -1,0 +1,45 @@
+def _ _ main _ _ ( ) : return sys.stdin
+def _readline ( ) : return float ( ns )
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdout
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) : return sys.stdin
+def _readline ( ) :
+    def _readline ( ) : return sys.stdin
+    def _readline ( ) : return sys.stdin
+    def _readline ( ) : return sys.stdin
+    def _readline ( ) : return sys.stdin
+    def _readline ( ) : return sys.stdin
+    def _readline ( ) : return sys.stdin
+    def _readline ( ) : return sys.stdin
+    def _readline ( ) : return sys.stdin

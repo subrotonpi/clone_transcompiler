@@ -1,0 +1,42 @@
+static final String print = "\n" , string = "" , itertools = "" , fractions = "" , heapq = "" , collections = "" , array = "" , bisect = "" , sys = "" , random = "" , time = "" , copy = "" , functools = "" ) {
+  System . setSecurityManager ( new SecurityManager ( ) ) ;
+  final int inf = 10 * * 20 ;
+  final int mod = 10 * * 9 + 7 ;
+  /* LI */
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "\n" ) ;
+  System . out . println ( "" )

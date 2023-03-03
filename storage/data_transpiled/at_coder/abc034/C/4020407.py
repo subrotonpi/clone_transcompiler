@@ -1,0 +1,57 @@
+def _ import _ , out = sys.stdout ) :
+    import baudrate
+    from baudrate import baudrate
+    from baudrate import factorial
+    from baudrate import Sum
+    from baudrate import Sum
+    from baudrate import SwapFixedRate
+    from baudrate import LongBitPackingRate
+    from baudrate import LongBitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    from baudrate import BitPackingRate
+    if out._UseLevel ( ) :
+        out.value = baudrate

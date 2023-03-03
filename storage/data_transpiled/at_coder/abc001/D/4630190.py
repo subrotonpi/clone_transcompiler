@@ -1,0 +1,8 @@
+def _import ( ) :
+    from itertools import count , repeat
+    from itertools import chain
+    from itertools import chain
+    from itertools import count
+    from itertools import chain
+    n = len ( chain ( [ 0 ] , repeat ( [ 0 ] , repeat ( [ 1 ] , repeat ( [ 2 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , 3 ] , repeat ( [ 3 ] , ) , repeat ( [ 3 ] , len ( 3 ) , len ( 3 ) , len ( 3 ) ) ) ) ) ) ) ) ) , repeat ( [ 1 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat [ 3 ] , len ( [ 3 ) , len ( 3 ) ] ) ) ) ) ) ) ) , repeat ( [ 1 ] , repeat ( [ 2 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , len ( [ 3 ) , len ( 3 ) ] ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+    pairs = chain ( chain ( chain ( [ 1 , 2 , 3 , 3 , 4 ] ) , repeat ( [ 1 ] , repeat ( [ 2 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ) , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ] , repeat ( [ 3 ) , repeat ( [ 3 ] , repeat ( 3 ] , repeat

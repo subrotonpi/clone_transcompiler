@@ -1,0 +1,55 @@
+@ GwtIncompatible ( "java.util.Collections" ) public static < T > void print ( @ SuppressWarnings ( "unused" ) final T ... args ) {
+  final StringBuilder sb = new StringBuilder ( ) ;
+  sb . append ( "," ) ;
+  for ( T value : args ) {
+    sb . append ( value ) ;
+    sb . append ( "," ) ;
+  }
+  sb . append ( "\n" ) ;
+  sb . append ( "" ) ;
+  sb . append ( "" ) ;
+  sb . append ( toString ( args ) ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "" ) ;
+  sb . append ( toString ( args ) ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "" ) ;
+  sb . append ( toString ( args ) ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "" ) ;
+  sb . append ( toString ( args ) ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "" ) ;
+  sb . append ( toString ( args ) ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "" ) ;
+  sb . append ( toString ( args ) ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "" ) ;
+  sb . append ( toString ( args ) ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "" ) ;
+  sb . append ( toString ( args ) ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "" ) ;
+  sb . append ( toString ( args ) ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "" ) ;
+  sb . append ( toString ( args ) ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "" ) ;
+  sb . append ( toString ( args ) ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "" ) ;
+  sb . append ( toString ( args ) ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "" ) ;
+  sb . append ( toString ( args ) ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "" ) ;
+  sb . append ( toString ( args ) ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "" ) ;
+  sb . append ( toString ( args ) ) ;
+  sb . append ( "\n" ) ;
+}

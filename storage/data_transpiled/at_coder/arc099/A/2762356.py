@@ -1,0 +1,36 @@
+def _import ( ) : return sys._getframe ( ).f_code.co_name
+import os
+import text
+class Main ( object ) :
+    mod = int ( 1e9 ) + 7 , IINF = long ( 1e19 )
+    MAX = int ( 1e4 ) + 1 , MX = int ( 1e7 ) + 1 , float ( 1e9 ) , root = 3
+    def readline ( ) : return sys.stdin.readline ( )
+    def nln ( ) : return int ( sys.stdin.readline ( ) )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def multiple_TC ( ) : return False , False
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )
+    def readline ( ) : return sys.stdin.readline ( )

@@ -1,0 +1,46 @@
+def _import ( ) : return _import ( sys.stdout , sys.stderr )
+import math
+import time
+import time
+import sys
+class Main ( object ) :
+    def __init__ ( self , file = sys.stdout ) :
+        file = open ( file , 'w' )
+        self.file = file
+        self.file = file
+        self.file.write ( "" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )
+        self.file.write ( "\n" )

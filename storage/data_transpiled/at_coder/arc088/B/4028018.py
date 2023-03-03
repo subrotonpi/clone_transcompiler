@@ -1,0 +1,66 @@
+def _import ( ) :
+    from sys import stdin
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import PY3
+    from .py3compat import compat
+    from .py3compat import compat
+    from .py3compat import PY2
+    from .py3compat import PY3
+    from .py3compat import compat
+    class _PY3 :
+        def _PY3 ( self ) :
+            if not PY3 :
+                raise TypeError
+            if PY3 :
+                return bytes ( self._PY3 )
+            else :
+                return bytes ( self._PY3 )
+        def __getitem__ ( self , key ) :
+            return ord ( key )
+        def _PY3 ( self ) :
+            return bytes ( self._PY3 )
+        def _PY3 ( self ) :
+            return bytes ( self._PY3 )
+        def __getitem__ ( self , key ) :
+            return bytes ( self._PY3 )
+        def _PY3 ( self ) :
+            return bytes ( self._PY3 )
+        def _PY3 ( self ) :
+            return bytes ( self._PY3 )
+        def _PY3 ( self ) :
+            return bytes ( self._PY3 )
+        def _PY3 ( self ) :
+            return bytes ( self._PY3 )
+        def _PY3 ( self ) :
+            return bytes ( self._PY3 )
+        def _PY3 ( self ) :
+            return bytes ( self._PY3 )
+        def _PY3 ( self ) :
+            return bytes ( self._PY3 )
+        def _PY3 ( self ) :
+            return bytes ( self._PY3 )
+    return _PY3
+    

@@ -1,0 +1,48 @@
+static final int [ ] getBinaryArray ( int n , int a , int b ) {
+  int [ ] ret = new int [ n ] ;
+  System . arraycopy ( stdin , 0 , ret , 0 , n ) ;
+  {
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    int [ ] li = new int [ n ] ;
+    for ( int i = 0 ;
+    i < n ;
+    i ++

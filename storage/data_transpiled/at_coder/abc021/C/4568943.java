@@ -1,0 +1,33 @@
+static final int [ ] [ ] getRoots ( ) {
+  System . setIn ( true ) ;
+  Scanner input = new Scanner ( System . in ) ;
+  final int MOD = 10 * 9 + 7 ;
+  final int N = Integer . parseInt ( input . nextLine ( ) ) ;
+  int s = Integer . parseInt ( input . nextLine ( ) ) ;
+  int g = Integer . parseInt ( input . nextLine ( ) ) ;
+  final int M = Integer . parseInt ( input . nextLine ( ) ) ;
+  final int [ ] [ ] adj = new int [ N ] [ M ] ;
+  for ( int i = 0 ;
+  i < N ;
+  i ++ ) adj [ i ] = new int [ M ] ;
+  for ( int i = 0 ;
+  i < M ;
+  i ++ ) adj [ i ] [ s ] = i ;
+  for ( int i = 0 ;
+  i < M ;
+  i ++ ) adj [ i ] [ s ] = i ;
+  for ( int i = 0 ;
+  i < N ;
+  i ++ ) adj [ i ] [ i ] = i ;
+  depth [ s ] = - 1 ;
+  final int [ ] path = new int [ N ] ;
+  final int [ ] Q = new int [ N ] ;
+  for ( int i = 0 ;
+  i < N ;
+  i ++ ) Q [ i ] = adj [ i ] [ s ] ;
+  path [ s ] = 1 ;
+  for ( int i = 0 ;
+  i < N ;
+  i ++ ) Q [ i ] = path [ i ] ;
+  return Q ;
+}

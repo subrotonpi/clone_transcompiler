@@ -1,0 +1,50 @@
+def _ _ main _ _ ( ) : return
+class Item ( object ) :
+    def go ( self ) : return
+    def go ( self ) : return
+    def read ( self ) : return open ( self.file )
+    def write ( self , file ) :
+        with open ( self.file , 'r' ) as f :
+            f.write ( open ( self.file , 'w' ) )
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return ''
+    def next ( self ) : return
