@@ -22,7 +22,7 @@ Code for paper, "Pathways to Leverage Transcompiler based Data Augmentation for 
 - Details about setting up ANTLR, Transcoder can be found in: 
   - setup_antlr.txt
   -  setup_transcoder.txt
--  Codes are already translated and stored
+-  Code fragments are already translated and stored
 -  To get the clone-pairs and dataset generation
    -  run the notebooks sequentially and the dependency in between, such as -
       -   feature extraction using ANTLR (find in CLCDSA repo)
