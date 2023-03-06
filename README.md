@@ -26,11 +26,11 @@ Code for paper, "Pathways to Leverage Transcompiler based Data Augmentation for 
 -  To get the clone-pairs and dataset generation
    -  run the notebooks sequentially and the dependency in between, such as -
       -   feature extraction using ANTLR (find in CLCDSA repo)
-      -   clone-pairs generation using Java
+      -   use clone-pairs generation method provided in CLCDSA repo (requires Java)
 
 -  To run the models
    - Install requirements.txt
-   - Use a virtual environment and follow specific requirements from the repository)
+   - Use a virtual environment and follow specific requirements from the target model's repository
   
 ### Contact
  Subroto Nag Pinku, subroto.npi@usask.ca
