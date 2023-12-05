@@ -49,6 +49,5 @@ For more information, refer to the respective repositories and documentation.
 
 
   
-### Contact
-
+## Contact
 Subroto Nag Pinku, [subroto.npi@usask.ca](mailto:subroto.npi@usask.ca)
