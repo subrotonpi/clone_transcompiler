@@ -1,0 +1,134 @@
+def import _open
+import os
+import os
+import re
+import locale
+import os
+import sys
+import os
+import subprocess
+import codecs
+import codecs
+import codecs
+import codecs
+import os
+import os
+import sys
+import os
+import locale
+import locale
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+codecs
+import codecs
+import codecs
+import codecs
+import codecs
+import codecs
+codecs
+import codecs
+import codecs
+import codecs
+import codecs
+codecs
+import codecs
+import codecs
+codecs
+import codecs
+codecs
+import codecs
+import codecs
+# we don't care about us that we can get an unstable solution
+# here
+# >> import codecs
+# >>> codecs = ['ascii', 'ascii']
+# >>> codecs.register(codecs.open('ascii', 'r'))
+# >>> codecs.register(codecs.open('ascii', 'r'))
+# >>> codecs.register(codecs.open('ascii', 

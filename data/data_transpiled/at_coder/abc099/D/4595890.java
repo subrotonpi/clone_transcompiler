@@ -1,0 +1,44 @@
+public static int N = Integer . parseInt ( input ) {
+  int C = Integer . parseInt ( input . nextLine ( ) ) ;
+  List < List < Integer >> D = new ArrayList < > ( ) ;
+  List < List < Integer >> G = new ArrayList < > ( ) ;
+  for ( int i = 0 ;
+  i < C ;
+  i ++ ) D . add ( Collections . singletonList ( Integer . parseInt ( input . nextLine ( ) ) ) ) ;
+  List < List < Integer >> GC = new ArrayList < > ( ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  GC . add ( new ArrayList < > ( ) ) ;
+  for ( int a = 0 ;
+  a < C ;
+  a ++ ) {
+    for (

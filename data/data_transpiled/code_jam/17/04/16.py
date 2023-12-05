@@ -1,0 +1,25 @@
+def SPACETOKEN project ( ) :
+# import sys
+# import sys
+# import logging
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())
+# print("problem solved in:", sys.exc_info())

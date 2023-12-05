@@ -1,0 +1,8 @@
+def main ( ) :
+    import sys
+    from itertools import chain
+    from itertools import chain
+    from itertools import chain
+    from itertools import chain
+    from itertools import chain
+    S = chain ( [ 1 ] , chain ( [ 2 ] , chain ( [ 3 ] , chain ( [ 4 ] , chain ( [ 5 ] , chain ( [ 6 ] , chain ( [ 6 ] , chain ( [ 6 ] , chain ( [ 6 ] , chain ( [ 6 ] , chain ( [ 6 ] , chain ( [ 6 ] , chain ( [ 6 ] , chain ( [ 6 ] , chain ( [ 6 ] , ) , chain ( [ 6 ] , chain ( [ 6 ] , ) , chain ( [ 6 ] , chain ( [ 6 ] , chain ( [ 6 ] , chain ( [ 6 ] , chain ( [ 6 ] , chain ( [ 6 ] , chain ( [ 6 ] , chain ( [ 6 ] , chain ( [ 6 ] , iter ( [ 6 ] , iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter ( iter

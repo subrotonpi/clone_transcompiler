@@ -1,0 +1,110 @@
+def import _solve
+import locale
+import os
+import locale
+import sys
+import random
+import locale
+import os
+import sys
+import locale
+import random
+import locale
+import random
+import sys
+import locale
+import locale
+import os
+import locale
+import locale
+import random
+import time
+import time
+import locale
+import sys
+import locale
+import locale
+import os
+import locale
+import locale
+import locale
+import locale
+import os
+import sys
+import locale
+import locale
+import locale
+import random
+import time
+import time
+import time
+import time
+import random
+import sys
+import locale
+import locale
+import locale
+import os
+import locale
+import locale
+import locale
+import random
+import sys
+import locale
+import locale
+import os
+import sys
+import locale
+import os
+import locale
+import locale
+import os
+import sys
+import locale
+import locale
+import random
+import sys
+import random
+import sys
+import locale
+import locale
+import os
+import sys
+import locale
+import os
+import locale
+import os
+import sys
+import locale
+import os
+import sys
+import locale
+import os
+import sys
+import locale
+import os
+import locale
+import sys
+import os
+import locale
+import os
+import sys
+import os
+import locale
+import os
+import sys
+import locale
+import os
+import locale
+# make sure we have a little endian hack
+# it will work around that it is a little bit hack
+# as it is a little bit hack
+import os
+from locale import getlocale
+from os import sep
+from os import sep
+from os import sys
+from os import path
+from time import time
+try :
+    import locale

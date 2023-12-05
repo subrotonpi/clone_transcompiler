@@ -1,0 +1,52 @@
+def import import sys , StringIO , StringIO , cStringIO , ConfigParser , ConfigParser , ConfigParser , ConfigParser , ConfigParser , ConfigParser , ConfigParser , ConfigParser , ConfigParser , ConfigParser , OptionGroup ) :
+    from io import StringIO
+    from ConfigParser import SafeConfigParser
+    from io import StringIO
+    from ConfigParser import SafeConfigParser
+    from io import StringIO
+    from ConfigParser import SafeConfigParser
+    from io import StringIO
+    parser = SafeConfigParser ( )
+    parser.read ( sys.argv [ 1 ] )
+    parser.readfp ( StringIO ( sys.argv [ 2 ] ) )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    parser.add_section ( 'Sections' )
+    

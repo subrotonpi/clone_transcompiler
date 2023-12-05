@@ -1,0 +1,133 @@
+def _ _ init _ _ ( * args ) : return args
+import sys
+import os
+import tokenize
+import tokenize
+import tokenize
+import tokenize
+import tokenize
+import tokenize
+import random
+import random
+import random
+import random
+import random
+import random
+import random
+import string
+import random
+import random
+import random
+import string
+import random
+import random
+import random
+import string
+import random
+import random
+import string
+import random
+import random
+import string
+import random
+import random
+import subprocess
+import subprocess
+import subprocess
+import subprocess
+import subprocess
+import subprocess
+import time
+import time
+import time
+import time
+import random
+import random
+import random
+import string
+import random
+import subprocess
+import subprocess
+import subprocess
+import subprocess
+import subprocess
+import time
+import time
+import time
+import random
+import random
+import subprocess
+import subprocess
+import subprocess
+import subprocess
+import subprocess
+import sys
+import time
+import time
+import time
+import random
+import random
+import string
+import random
+import random
+import subprocess
+import subprocess
+import subprocess
+import subprocess
+import subprocess
+import time
+import random
+import sys
+import time
+import time
+import random
+import subprocess
+import subprocess
+import subprocess
+import subprocess
+import subprocess
+import random
+import time
+import random
+import sys
+import subprocess
+import subprocess
+import subprocess
+import time
+import time
+import random
+import sys
+import time
+import random
+import subprocess
+import subprocess
+import subprocess
+import subprocess
+import subprocess
+import subprocess
+import time
+import random
+import sys
+import subprocess
+import subprocess
+import subprocess
+import subprocess
+import subprocess
+import subprocess
+import time
+import random
+import sys
+import time
+import random
+import sys
+from itertools import product
+from itertools import repeat
+from itertools import import zip , repeat
+from itertools import import zip , repeat
+from itertools import import zip , repeat
+from itertools import import zip , repeat
+from itertools import import zip , repeat
+from itertools import import zip , repeat , next , next
+from itertools import import zip , repeat , next , next , next
+from itertools import zip , repeat , next , next , next , next
+from itertools import zip , repeat , next , next , next , next , next , next , next , next , next , next , next , next , next , next , next , next , next , next

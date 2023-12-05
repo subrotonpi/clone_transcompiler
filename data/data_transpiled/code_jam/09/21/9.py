@@ -1,0 +1,40 @@
+def _ _ main _ _ ( ) :
+    from pyrder.utils import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    from pyrder.Gcjr1p1 import get_val
+    get_val = get_val ( get_val ( ) )
+    return get_val ( get_val ( get_val

@@ -1,0 +1,53 @@
+static String FILE_NAME_BASE = "C-large" ;
+final int NUM_PROCESSES = 4 ;
+final double MEM_LIMIT_GB = 1.5 ;
+final int RECURSION_LIMIT = 1000 ;
+{
+  int rows = ( int ) Integer . parseInt ( in . readLine ( ) ) ;
+  int cols = ( int ) Integer . parseInt ( in . readLine ( ) ) ;
+  int [ ] lovers = new int [ rows ] ;
+  for ( int i = 0 ;
+  i < lovers . length ;
+  i ++ ) {
+    lovers [ i ] = ( int ) Integer . parseInt ( in . readLine ( ) ) ;
+  }
+  String caseFmt = "%" + Integer . toString ( numCases ) + "d" ;
+  String progressFmt = "[%s/%s] %s\n" ;
+  StringBuilder sb = new StringBuilder ( ) ;
+  sb . append ( "Case #%d: %s\n" ) ;
+  sb . append ( "%s" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n" ) ;
+  sb . append ( "\n"

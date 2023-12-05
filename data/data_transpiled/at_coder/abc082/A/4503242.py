@@ -1,0 +1,10 @@
+def main ( ) :
+    import sys
+    class Main ( object ) :
+        def __init__ ( self ) :
+            self.A = sys.stdin.read ( )
+            self.B = sys.stdin.read ( )
+            if ( self.A + self.B ) % 2 == 0 :
+                print ( ( self.A + self.B ) / 2 )
+            else :
+                print ( ( self.A + self.B ) / 2 + 1 )

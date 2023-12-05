@@ -1,0 +1,51 @@
+def _ _ main _ _ ( ) : return int ( next ( ) )
+def _main ( ) : return next ( )
+def random ( ) : return random ( )
+def random ( ) : return random ( )
+def random ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def update ( l , r , val ) :
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) : return random ( )
+def main ( ) :
+def main ( ) : return random ( )
+def main ( ) :
+def main ( ) : return random ( )
+def main ( ) :
+def main ( ) :
+    def main ( ) : return random ( )
+class DummyTree ( object ) :
+    def __init__ ( self ) :
+        self.time = sys.stdin
+        self.stdout = sys.stdout

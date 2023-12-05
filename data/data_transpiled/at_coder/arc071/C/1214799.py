@@ -1,0 +1,53 @@
+def _import ( ) : return _import ( "" , "" , "" )
+class Main ( object ) :
+    def __init__ ( self ) :
+        self.s = _ord ( "" )
+        self.t = _ord ( "" )
+        self.q = _ord ( "q" )
+        self.s = s
+        self.q = _ord ( "a" )
+        self.s = s
+        self.q = _ord ( "a" )
+        self.s = s
+        self.q = _ord ( "q" )
+        self.s = s
+        self.q = _ord ( "a" )
+        self.s = s
+        self.q = _ord ( "q" )
+        self.s = s
+        self.q = _ord ( "a" )
+        self.s = s
+        self.q = _ord ( "q" )
+        self.s = s
+        self.q = _ord ( "a" )
+        self.s = s
+        self.q = _ord ( "q" )
+        self.s = s
+        self.q = _ord ( "a" )
+        self.s = s
+        self.q = _ord ( "q" )
+        self.s = s
+        self.q = _ord ( "q" )
+        self.s = s
+        self.q = _ord ( "q" )
+        self.s = s
+        self.q = _ord ( "q" )
+        self.s = s
+        self.q = _ord ( "q" )
+        self.s = s
+        self.q = _ord ( "q" )
+        self.s = s
+        self.q = _ord ( "q" )
+        self.s = s
+        self.q = _ord ( "q" )
+        self.s = s
+        self.q = _ord ( "q" )
+        self.s = s
+        self.q = _ord ( "q" )
+        self.s = s
+        self.q = _ord ( "q" )
+        self.s = s
+        self.q = _ord ( "q" )
+    def __next__ ( self ) :
+        self.s = _ord ( "q" )
+        self.q = _ord ( "q" )

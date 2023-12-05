@@ -1,0 +1,38 @@
+def _import ( ) : return int ( raw_input ( ) )
+import time
+import sys
+import math
+class A ( object ) :
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def write ( self , x ) :
+        print ( x , end = ' ' )
+    def __next__ ( self ) : return time.clock ( )
+    def write ( self , x ) :
+        print ( x , end = ' ' )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )
+    def __next__ ( self ) : return time.clock ( )

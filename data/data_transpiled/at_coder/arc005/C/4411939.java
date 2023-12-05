@@ -1,0 +1,48 @@
+@ VisibleForTesting static String [ ] [ ] input ( ) {
+  int H = Integer . parseInt ( input . nextLine ( ) ) ;
+  int W = Integer . parseInt ( input . nextLine ( ) ) ;
+  String [ ] [ ] _input = new String [ H ] [ W ] ;
+  int sy = 0 , sx = 0 ;
+  int gy = 0 , gx = 0 ;
+  for ( int i = 0 ;
+  i < H ;
+  i ++ ) {
+    String [ ] row = Lists . newArrayList ( ) ;
+    row [ 0 ] = Lists . newArrayList ( ) ;
+    row [ 1 ] = Lists . newArrayList ( ) ;
+    row [ 2 ] = Lists . newArrayList ( ) ;
+    row [ 3 ] = Lists . newArrayList ( ) ;
+    row [ 4 ] = Lists . newArrayList ( ) ;
+    row [ 5 ] = Lists . newArrayList ( ) ;
+    row [ 6 ] = Lists . newArrayList ( ) ;
+    row [ 7 ] = Lists . newArrayList ( ) ;
+    row [ 8 ] = Lists . newArrayList ( ) ;
+    row [ 9 ] = Lists . newArrayList ( ) ;
+    row [ 10 ] = Lists . newArrayList ( ) ;
+    row [ 11 ] = Lists . newArrayList ( ) ;
+    row [ 12 ] = Lists . newArrayList ( ) ;
+    row [ 13 ] = Lists . newArrayList ( ) ;
+    row [ 14 ] = Lists . newArrayList ( ) ;
+    row [ 15 ] = Lists . newArrayList ( ) ;
+    row [ 16 ] = Lists . newArrayList ( ) ;
+    row [ 17 ] = Lists . newArrayList ( ) ;
+    row [ 18 ] = Lists . newArrayList ( ) ;
+    row [ 19 ] = Lists . newArrayList ( ) ;
+    row [ 19 ] = Lists . newArrayList ( ) ;
+    row [ 19 ] = Lists . newArrayList ( ) ;
+    row [ 20 ] = Lists . newArrayList ( ) ;
+    row [ 21 ] = Lists . newArrayList ( ) ;
+    row [ 22 ] = Lists . newArrayList ( ) ;
+    row [ 23 ] = Lists . newArrayList ( ) ;
+    row [ 24 ] = Lists . newArrayList ( ) ;
+    row [ 24 ] = Lists . newArrayList ( ) ;
+    row [ 25 ] = Lists . newArrayList ( ) ;
+    row [ 24 ] = Lists . newArrayList ( ) ;
+    row [ 25 ] = Lists . newArrayList ( ) ;
+    row [ 26 ] = Lists . newArrayList ( ) ;
+    row [ 27 ] = Lists . newArrayList ( ) ;
+    row [ 27 ] = Lists . newArrayList ( ) ;
+    row [ 27 ] = Lists . newArrayList ( ) ;
+    row [ 27 ] = Lists . newArrayList ( ) ;
+    row [ 27 ] = Lists . newArrayList ( ) ;
+    row [ 27

@@ -1,0 +1,117 @@
+def _import ( ) : return
+def _import ( ) : return
+def _import ( ) : return
+def _import ( ) : return
+def _import ( ) :
+def _import ( ) :
+def _import ( ) :
+    global THREADS
+    THREADS = 1
+    def NAME = 'a-large'
+    def _import ( ) :
+        global _stdout
+        global _answers
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur
+        global _cur

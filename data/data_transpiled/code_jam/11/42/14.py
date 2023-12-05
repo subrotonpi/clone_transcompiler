@@ -1,0 +1,66 @@
+def gcj2011 ( ) :
+    import os
+    import os
+    import time
+    import os.path
+    import os.text
+    import numpy as np
+    import os.path
+    import os.path
+    import os.path
+    import time
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import time
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import time
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import os.path
+    import time
+    wrcsums = os.path
+    for i in range ( r ) :
+        wrrsums = os.path.join ( os.path.dirname ( os.path.abspath ( os.path.abspath ( os.path.abspath ( os.path.abspath ( os.path.abspath ( os.path.abspath ( os.path.abspath ( os.path.abspath ( os.abspath ( os.path.abspath ( os.abspath ( os.abspath ( os.abspath ( os.abspath ( os.abspath ( os.abspath ( os.abspath ( sys.abspath ( sys.path.abspath ( sys.abspath ( sys.path ) ) ) ) ) ) ) ) ) ) ) ) ) , os.path.basename ( os.path.abspath ( os.path.abspath ( os.path.abspath ( os.path.abspath ( os.path.abspath ( os.path.abspath ( os.path.abspath ( os.path.abspath (

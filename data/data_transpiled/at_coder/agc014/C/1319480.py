@@ -1,0 +1,64 @@
+def _import ( ) :
+    import sys
+    import struct
+    class Main ( object ) :
+        def __init__ ( self ) :
+            self.H , self.W , self.K = 0 , 0 , 0
+            self.H = self.H
+            self.W = self.W
+            self.H = self.H
+            self.K = self.K
+            self.H = self.H
+            self.W = self.W
+            self.H = self.H
+            self.W = self.W
+            self.H = self.H
+            self.W = self.W
+            self.H = self.H
+            self.H = self.H
+            self.W = self.W
+            self.H = self.H
+            self.H = self.H
+            self.H = self.H
+            self.W = self.W
+            self.H = self.H
+            self.H = self.H
+            self.H = self.H
+            self.W = self.W
+            self.H = self.H
+            self.H = self.H
+            self.H = self.H
+            self.W = self.W
+            self.H = self.H
+            self.H = self.H
+            self.H = self.H
+            self.W = self.W
+            self.H = self.H
+            self.H = self.H
+            self.H = self.H
+            self.W = self.W
+            self.H = self.H
+            self.H = self.H
+            self.W = self.W
+            self.H = self.H
+            self.H = self.H
+            self.W = self.W
+            self.H = self.H
+            self.H = self.H
+            self.W = self.W
+            self.H = self.H
+            self.H = self.H
+            self.W = self.W
+            self.H = self.H
+            self.H = self.H
+            self.W = self.W
+            self.H = self.H
+            self.H = self.H
+            self.W = self.W
+            self.H = self.H
+            self.H = self.H
+            self.H = self.H
+            self.W = self.W
+            self.H = self.H
+            self.H = self.H
+            self.H = self.

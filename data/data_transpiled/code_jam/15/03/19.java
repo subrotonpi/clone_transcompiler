@@ -1,0 +1,37 @@
+static final Scanner getScanner ( ) {
+  final int i = 1 ;
+  final int j = 2 ;
+  final int k = 3 ;
+  final int one = 4 ;
+  final Map < Integer , Integer > table = new HashMap < Integer , Integer > ( ) ;
+  table . put ( Number . one , new Integer ( 1 ) ) ;
+  table . put ( Number . i , new Integer ( 1 ) ) ;
+  table . put ( Number . j , new Integer ( 1 ) ) ;
+  table . put ( Number . k , new Integer ( 1 ) ) ;
+  table . put ( Number . i , new Integer ( - 1 ) ) ;
+  table . put ( Number . j , new Integer ( 1 ) ) ;
+  table . put ( Number . k , new Integer ( - 1 ) ) ;
+  table . put ( Number . j , new Integer ( 1 ) ) ;
+  table . put ( Number . k , new Integer ( 1 ) ) ;
+  table . put ( Number . k , new Integer ( 1 ) ) ;
+  table . put ( Number . k , new Integer ( 1 ) ) ;
+  table . put ( Number . i , new Integer ( - 1 ) ) ;
+  table . put ( Number . j , new Integer ( - 1 ) ) ;
+  table . put ( Number . k , new Integer ( 1 ) ) ;
+  table . put ( Number . k , new Integer ( 1 ) ) ;
+  table . put ( Number . k , new Integer ( 1 ) ) ;
+  table . put ( Number . k , new Integer ( 1 ) ) ;
+  table . put ( Number . i , new Integer ( - 1 ) ) ;
+  table . put ( Number . j , new Integer ( - 1 ) ) ;
+  table . put ( Number . k , new Integer ( 1 ) ) ;
+  table . put ( Number . k , new Integer ( 1 ) ) ;
+  table . put ( Number . i , new Integer ( 1 ) ) ;
+  table . put ( Number . j , new Integer ( - 1 ) ) ;
+  table . put ( Number . k , new Integer ( - 1 ) ) ;
+  table . put ( Number . k , new Integer ( 1 ) ) ;
+  table . put ( Number . i , new Integer ( 1 ) ) ;
+  table . put ( Number . j , new Integer ( - 1 ) ) ;
+  table . put ( Number . k , new Integer ( - 1 ) ) ;
+  table . put ( Number . k , new Integer ( 1 ) ) ;
+  return new Scanner ( System . in ) ;
+}

@@ -1,0 +1,49 @@
+def _import ( ) : return not ( b'' in b )
+def _import ( ) : return _import ( )
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) : return _readline
+def _readline ( ) :
+    def _readline ( ) : return _readline
+    def _readline ( ) : return _readline
+    def _readline ( ) : return _readline
+    def _readline ( ) : return _readline
+    def _readline ( ) : return _readline
+    def _readline ( ) : return _readline
+    def _readline ( ) : return _readline
+    def _readline ( ) : return _readline
+    def _readline ( ) : return _readline
+    def _readline ( ) : return _readline
+    def _readline ( ) : return _readline
+    def _readline ( ) : return _readline
+    def _readline ( ) : return _readline
+    def _readline ( ) : return _readline

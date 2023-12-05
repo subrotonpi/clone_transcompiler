@@ -1,0 +1,33 @@
+public static int [ ] [ ] getN ( ) {
+  int N = Integer . parseInt ( input . nextLine ( ) ) ;
+  int MA = Integer . parseInt ( input . nextLine ( ) ) ;
+  int MB = Integer . parseInt ( input . nextLine ( ) ) ;
+  List < List < Integer >> S = new ArrayList < > ( ) ;
+  for ( int i = 0 ;
+  i < N ;
+  i ++ ) S . add ( Collections . singletonList ( input . nextLine ( ) ) ) ;
+  List < Integer > [ ] [ ] DPLIST = new List [ 401 ] [ 401 ] ;
+  for ( int i = 0 ;
+  i < 401 ;
+  i ++ ) for ( int j = 0 ;
+  j < 401 ;
+  j ++ ) DPLIST [ i ] [ j ] = 10 * 6 ;
+  for ( int a = 0 ;
+  a < S . size ( ) ;
+  a ++ ) for ( int b = 0 ;
+  b < S . size ( ) ;
+  b ++ ) for ( int c = 0 ;
+  c < S . get ( a ) ;
+  c ++ ) for ( int i = 400 ;
+  i >= a ;
+  i -- ) for ( int j = 400 ;
+  j >= b ;
+  j -- ) if ( DPLIST [ i ] [ j ] > DPLIST [ i - a ] [ j - b ] + c ) DPLIST [ i ] [ j ] = DPLIST [ i - a ] [ j - b ] + c ;
+  int ANS = 10 * 6 ;
+  for ( int k = 1 ;
+  k <= 400 / Math . max ( MA , MB ) ;
+  k ++ ) if ( DPLIST [ MA * k ] [ MB * k ] < ANS ) ANS = DPLIST [ MA * k ] [ MB * k ] ;
+  if ( ANS == 10 * 6 ) System . out . println ( - 1 ) ;
+  else System . out . println ( ANS ) ;
+  return DPLIST ;
+}

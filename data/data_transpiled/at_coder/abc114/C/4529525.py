@@ -1,0 +1,67 @@
+def import import sys , newlines , r5 , r7 , r3 , r5 , r7 , count = 0 ) :
+    from io import StringIO
+    import tokenize
+    from codecs import open
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF16_BE
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF16_BE
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF16_BE
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF16_BE
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF16_BE
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF16_BE
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF16_BE
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF16_BE
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF16_BE
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF16_LE
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF8
+    from codecs import BOM_UTF8.BOM_UTF8
+    count = BOM_UTF8.decode ( 'utf-8' )
+    if BOM_UTF8 :
+        from codecs._UTF16_BE

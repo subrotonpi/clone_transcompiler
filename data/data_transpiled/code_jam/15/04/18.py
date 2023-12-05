@@ -1,0 +1,37 @@
+def _import ( ) :
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import pybind11_tests as in_test
+    from pybind11_tests import in_test

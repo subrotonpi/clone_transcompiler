@@ -1,0 +1,12 @@
+def main ( ) :
+    import sys
+    import random
+    from sys import stdin
+    from itertools import chain , repeat
+    from itertools import chain , repeat
+    from random import randint
+    from itertools import chain , repeat
+    from itertools import chain , repeat
+    from random import shuffle , repeat
+    from itertools import chain , repeat
+    from sys import stdin , stdout , stderr , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stderr , stdout , stdout , stdout , stdout , stdout , stdout , stderr , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stderr , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stderr , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stderr , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stderr , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stderr , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stderr , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stderr , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stderr , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stderr , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout , stdout ,

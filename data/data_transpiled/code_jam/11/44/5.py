@@ -1,0 +1,35 @@
+def _import ( ) :
+    import os
+    import os
+    import sys
+    import os
+    import stat
+    import math
+    import numpy
+    import numpy
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import numpy.random
+    import time
+    from itertools import count , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat , repeat ,

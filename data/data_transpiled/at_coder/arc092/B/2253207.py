@@ -1,0 +1,75 @@
+def _import ( ) :
+    from StringIO import StringIO
+    from itertools import chain
+    from itertools import repeat
+    from itertools import chain
+    from itertools import chain
+    from itertools import repeat
+    from itertools import chain
+    from itertools import chain
+    from itertools import chain
+    class InputReader ( stream ) :
+        def read ( self ) :
+            stream = sys.stdin
+            stream = next ( stream )
+            stream = chain ( stream , repeat ( stream ) )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+            stream = next ( stream )
+    

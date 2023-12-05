@@ -1,0 +1,75 @@
+def _import ( ) :
+    import random
+    import sys
+    import os
+    import sys
+    import os
+    import tokenize
+    class D :
+        def solve_test ( self ) :
+            self.n = randint ( 0 , 2 )
+            self.m = 0
+            self.k = randint ( 0 , m )
+            self.head = [ ]
+            self.nx = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.dst = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.cp = [ ]
+            self.dst = [ ]
+            self.dst = [ ]
+    def dfs ( self , x ) :
+        return self.

@@ -1,0 +1,138 @@
+def SPACETOKEN qualification ( ) : return
+import sys
+import os
+import math
+import text
+class FairWarning :
+    def DF ( number ) : return ''
+    def run ( ) : return ''
+    def INT ( ) : return int ( TOKEN ( ) )
+    def DOUBLE ( ) : return float ( TOKEN ( ) )
+    def NUMBER ( ) : return NUMBER
+    def do_STDIN ( standard ) : return standard
+    def set_input ( filename ) :
+        global inputreader
+        global inputwriter
+        global outputwriter
+        global stdin
+        global stdout
+        global stdin
+        global stdout
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdin
+        global stdout
+        global stdout
+        global stdout
+        global stdout
+        global stdin
+        global stdout
+        global stdout
+    

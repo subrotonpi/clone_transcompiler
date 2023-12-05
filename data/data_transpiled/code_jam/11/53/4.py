@@ -1,0 +1,52 @@
+def _import ( ) : return int ( )
+import os
+import sys
+import math
+import list
+import tokenize
+import tokenize
+class C :
+    def readline ( self ) : return open ( self.stdout )
+    def write ( self , out ) :
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+        self.stdout.write ( "\n" )
+    

@@ -1,0 +1,45 @@
+@ VisibleForTesting static int [ ] solve ( ) {
+  Range range = xrange ;
+  final int [ ] data = new Range [ range . length ] ;
+  final int [ ] [ ] result = new int [ range . length ] [ ] ;
+  for ( int i = 0 ;
+  i < range . length ;
+  i ++ ) {
+    int n = gcj . token ( Integer . parseInt ( range [ i ] . token ( ) ) ) ;
+    result [ i ] = null ;
+    final int [ ] p = gcj . tokens ( 2 , Integer . parseInt ( range [ i ] . token ( ) ) ) ;
+    @ SuppressWarnings ( "resource" ) final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i ] . pos ;
+    final int pa = data [ i

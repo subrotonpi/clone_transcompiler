@@ -1,0 +1,56 @@
+def _import ( * o ) : print ( * o )
+class Main ( object ) :
+    def __init__ ( self ) :
+        self.stream = sys.stdin
+        self.stream = sys.stdout
+        self.n = self.stream.tell ( )
+        self.graph = self.build_graph ( self.stream , n , self.n - 1 )
+        self.par = [ ]
+        self.cnt = [ ]
+        self.dfs ( 0 , - 1 )
+        self.next = self.next
+        self.sgn = self.sgn
+        self.next = self.next
+        self.next = self.next
+        self.sgn = self.sgn
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next
+        self.next = self.next

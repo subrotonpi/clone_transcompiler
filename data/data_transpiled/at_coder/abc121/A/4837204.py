@@ -1,0 +1,35 @@
+def import _main
+class Main ( object ) :
+    def __init__ ( self ) :
+        self._main = _main ( )
+    def __init__ ( self ) :
+        self._main.__init__ ( self )
+    def main ( self ) :
+        self._main.__init__ ( self )
+    H , W , h , w , block , ans = _main.get_H ( )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self._main.__init__ ( self )
+    self

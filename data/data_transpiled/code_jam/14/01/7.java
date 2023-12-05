@@ -1,0 +1,41 @@
+static final String [ ] readCases ( ) throws IOException {
+  final BufferedReader bufferedReader = new BufferedReader ( new InputStreamReader ( System . in ) ) ;
+  final String line ;
+  final int T = Integer . parseInt ( bufferedReader . readLine ( ) . trim ( ) ) ;
+  final List < CaseResult > cases = new ArrayList < CaseResult > ( ) ;
+  for ( int t = 0 ;
+  t < T ;
+  t ++ ) {
+    CaseResult case = new CaseResult ( ) ;
+    case . set ( "1" , new CaseResult ( ) ) ;
+    case . set ( "1" , new CaseResult ( ) ) ;
+    case . set ( "1" , new CaseResult ( ) ) ;
+    case . set ( "1" , new CaseResult ( ) ) ;
+    case . set ( "1" , new CaseResult ( ) ) ;
+    case . set ( "1" , new CaseResult ( ) ) ;
+    case . set ( "1" , new CaseResult ( ) ) ;
+    case . set ( "2" , new CaseResult ( ) ) ;
+    case . set ( "2" , new CaseResult ( ) ) ;
+    case . set ( "2" , new CaseResult ( ) ) ;
+    case . set ( "2" , new CaseResult ( ) ) ;
+    case . set ( "3" , new CaseResult ( ) ) ;
+    case . set ( "4" , new CaseResult ( ) ) ;
+    case . set ( "3" , new CaseResult ( ) ) ;
+    case . set ( "4" , new CaseResult ( ) ) ;
+    case . set ( "3" , new CaseResult ( ) ) ;
+    case . set ( "4" , new CaseResult ( ) ) ;
+    case . set ( "4" , new CaseResult ( ) ) ;
+    case . set ( "4" , new CaseResult ( ) ) ;
+    case . set ( "3" , new CaseResult ( ) ) ;
+    case . set ( "4" , new CaseResult ( ) ) ;
+    case . set ( "4" , new CaseResult ( ) ) ;
+    case . set ( "4" , new CaseResult ( ) ) ;
+    case . set ( "4" , new CaseResult ( ) ) ;
+    case . set ( "4" , new CaseResult ( ) ) ;
+    case . set ( "4" , new CaseResult ( ) ) ;
+    case . set ( "3" , new CaseResult ( ) ) ;
+    case . set ( "4" , new CaseResult ( ) ) ;
+    case . set ( "4" , new CaseResult ( ) ) ;
+    case . set ( "4" , new CaseResult ( ) ) ;
+    case . set ( "4" , new CaseResult ( ) ) ;
+    case . set ( "1" , new CaseResult ( ) )

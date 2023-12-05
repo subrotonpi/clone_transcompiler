@@ -1,0 +1,5 @@
+public static Range rl ( String s ) throws Exception {
+  return xrange ( s . length ( ) ) ;
+  int INF = 2147483647 ;
+  /* print "Case #" + icase + ": IMPOSSIBLE"; */
+  / * ▁ print ▁ "Case #" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ letters ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁ ":" ▁ + ▁ icase ▁ + ▁

@@ -1,0 +1,32 @@
+public static String solve ( String string ) {
+  int a = Integer . parseInt ( string ) ;
+  int b = Integer . parseInt ( string ) ;
+  if ( b == 0 ) {
+    return "0" ;
+  }
+  String binA = a + "" ;
+  String binB = b + "" ;
+  int [ ] aa = new int [ 40 ] ;
+  for ( int i = 0 ;
+  i < aa . length ;
+  i ++ ) {
+    aa [ i ] = binA . equals ( "0" ) ? - 1 : Integer . parseInt ( binA . substring ( i + 1 ) . equals ( "0" ) ? Integer . parseInt ( binA . substring ( i + 1 ) ) : Integer . parseInt ( binA . substring ( i + 1 ) ) , 2 ) ;
+  }
+  int [ ] bb = new int [ 40 ] ;
+  for ( int i = 0 ;
+  i < bb . length ;
+  i ++ ) {
+    bb [ i ] = binB . equals ( "0" ) ? - 1 : Integer . parseInt ( binB . substring ( i + 1 ) . equals ( "0" ) ? Integer . parseInt ( binB . substring ( i + 1 ) ) : Integer . parseInt ( binB . substring ( i + 1 ) ) , 2 ) ;
+  }
+  int index = 0 ;
+  String ans [ ] = new String [ 40 ] ;
+  while ( index < 40 ) {
+    int tmp = 0 ;
+    tmp += ( bb [ index ] >= 0 ) ? ( bb [ index ] + 1 ) % 2 : 0 ;
+    tmp += aa [ index ] > 0 ? Integer . parseInt ( aa [ index ] ) : 0 ;
+    ans [ index ] = String . valueOf ( tmp % 2 ) ;
+    index ++ ;
+  }
+  ans [ ans . length - 1 ] = a % 2 == b % 2 == 0 ? String . valueOf ( ( b - a ) / 2 % 2 ) : String . valueOf ( ( ( b - a ) / 2 + 1 ) % 2 ) ;
+  return String . valueOf ( Long . parseLong ( ans [ 0 ] , 2 ) ) ;
+}

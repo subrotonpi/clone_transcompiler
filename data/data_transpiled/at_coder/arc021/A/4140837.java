@@ -1,0 +1,1 @@
+" ) public static List < Integer > inputs ( ) { return Arrays . asList ( Lists . newArrayList ( 4 ) ) ; }

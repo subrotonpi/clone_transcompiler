@@ -1,0 +1,47 @@
+def import import _sys , _sys , _readline , _sys , _sys , _sys , _maxsize , _sys = _sys , _sys = _sys , _maxsize = _maxsize ) :
+    from _sys import stdin as stdin
+    try :
+        with stdin.open ( _sys ) as f :
+            n = _sys.maxsize
+            l = [ ]
+            _sys.stdin.readline ( )
+            l.append ( _sys.stdin.readline ( ) )
+            _sys.stdin.readline ( )
+            l.append ( _sys.stdin.readline ( ) )
+            _sys.stdin.readline ( )
+            _sys.stdin.close ( )
+            _sys.stdout.write ( '\n' )
+            _sys.stdout.flush ( )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '' )
+            _sys.stdin.flush ( )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '\n' )
+            _sys.stdin.flush ( )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '' )
+            _sys.stdin.flush ( )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '' )
+            _sys.stdin.flush ( )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '' )
+            _sys.stdin.flush ( )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '' )
+            _sys.stdin.flush ( )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '' )
+            _sys.stdin.write ( '' )
+    except KeyboardInterrupt :
+        pass

@@ -1,0 +1,43 @@
+def _import ( ) : return
+def max_flow ( source , sink ) : return 0
+def _import ( source , sink ) : return - 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) : return 1
+def _import ( source , sink ) :

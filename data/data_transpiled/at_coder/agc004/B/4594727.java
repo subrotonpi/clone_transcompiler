@@ -1,0 +1,58 @@
+static final int [ ] getN ( ) {
+  int N = Integer . parseInt ( input . nextLine ( ) ) ;
+  int x = Integer . parseInt ( input . nextLine ( ) ) ;
+  List < Integer > A = Lists . newArrayList ( ) ;
+  for ( int i = 0 ;
+  i < N ;
+  i ++ ) {
+    A . add ( i ) ;
+  }
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  A . add ( x ) ;
+  INF = 10 * 10 * 18

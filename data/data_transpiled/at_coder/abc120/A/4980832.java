@@ -1,0 +1,8 @@
+public static int A , int B , int C ;
+int i ;
+int j ;
+j = Integer . parseInt ( input . nextLine ( ) ) ;
+if ( B / A > C ) System . out . println ( C ) ;
+else System . out . println ( B / A ) ;
+return i ;
+}

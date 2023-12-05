@@ -1,0 +1,150 @@
+def _import ( ) : return sys.stdin
+import io
+import io
+import StringIO
+import io
+import io
+import io
+import StringIO
+import io
+import io
+import StringIO
+import io
+import io
+import warnings
+import warnings
+import inspect
+import inspect
+import string
+class InputReader :
+    import io
+    import StringIO
+    import io
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    import inspect
+    from inspect
+    import inspect
+    import inspect
+    from inspect
+    import inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    import inspect
+    from inspect
+    from inspect import getinspect
+    from inspect
+    from inspect
+    import inspect
+    from inspect
+    from inspect import getinspect
+    from inspect
+    from inspect
+    import inspect
+    from inspect
+    from inspect import getinspect
+    from inspect
+    from inspect import inspect
+    from inspect
+    import inspect
+    from inspect
+    from inspect import getinspect
+    from inspect
+    from inspect import inspect
+    from inspect
+    import inspect
+    from inspect
+    from inspect import inspect
+    from inspect
+    import inspect
+    from inspect
+    from inspect import inspect
+    from inspect
+    from inspect import inspect
+    from inspect
+    import inspect
+    from inspect
+    from inspect import inspect
+    from inspect

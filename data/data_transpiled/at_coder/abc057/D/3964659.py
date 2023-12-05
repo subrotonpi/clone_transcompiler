@@ -1,0 +1,48 @@
+def _ _ main _ _ ( ) : return
+class Main ( object ) :
+    def __init__ ( self ) :
+        self._fast_reader = sys.stdin
+        self._fast_reader = sys.stdin
+        self._fast_reader.seek ( 0 )
+        self._fast_reader.seek ( 0 )
+        self._fast_reader.seek ( 0 )
+        self._fast_reader.seek ( 0 )
+        self._fast_reader.seek ( 0 )
+        self._fast_reader.seek ( 0 )
+        self._fast_reader.seek ( 0 )
+        self._fast_reader.seek ( 0 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.seek ( 0 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.seek ( 0 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+    def read ( self ) :
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+        self._fast_reader.read ( 1 )
+    def read ( self ) :
+        self._fast_reader.read ( 1 )
+    def _fast_reader

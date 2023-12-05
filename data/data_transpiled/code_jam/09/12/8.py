@@ -1,0 +1,66 @@
+def _import ( ) : return _import ( )
+import os
+import sys
+import os
+import sys
+import os
+import sys
+class Task ( object ) :
+    def __init__ ( self ) :
+        self.ID = 'cross'
+        self.IN_FILE = '%s.in' % self.ID
+        self.OUT_FILE = '%s.out' % self.ID
+    def write ( self , d ) :
+        print ( [ x for x in d if x % mod ] )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )
+        self._import ( )

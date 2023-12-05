@@ -1,0 +1,94 @@
+def import import sys , StringIO , StringIO , pipes , pipes , config , verbose , problem , problem , problem , args , logfile , ** kwargs ) :
+    from io import StringIO
+    from pipes import quote
+    from random import randint
+    from pipes import quote
+    from random import choice
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from random import choice
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote
+    from pipes import quote as quote
+    from pipes as as as pipes
+    
+    if hasattr ( pipes , 'quote' ) :
+        pipes = quote
+    if 'quoted' in in sys.keys ( ) :
+        return

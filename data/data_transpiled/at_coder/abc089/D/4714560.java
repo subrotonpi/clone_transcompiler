@@ -1,0 +1,48 @@
+public static int [ ] [ ] parse ( String input ) {
+  int H = Integer . parseInt ( input . nextLine ( ) ) ;
+  int W = Integer . parseInt ( input . nextLine ( ) ) ;
+  int D = Integer . parseInt ( input . nextLine ( ) ) ;
+  List < List < Integer >> Aij = new ArrayList < > ( ) ;
+  for ( int i = 0 ;
+  i < H ;
+  i ++ ) Aij . add ( Collections . singletonList ( Integer . parseInt ( input . nextLine ( ) ) ) ) ;
+  int Q = Integer . parseInt ( input . nextLine ( ) ) ;
+  List < List < Integer >> LRi = new ArrayList < > ( ) ;
+  for ( int i = 0 ;
+  i < Q ;
+  i ++ ) LRi . add ( Collections . singletonList ( Integer . parseInt ( input . nextLine ( ) ) ) ) ;
+  int [ ] pos = new int [ H * W + 1 ] ;
+  for ( int i = 0 ;
+  i < H ;
+  i ++ ) for ( int j = 0 ;
+  j < W ;
+  j ++ ) pos [ Aij . get ( i ) . get ( j ) ] = new int [ W ] ;
+  for ( int i = 0 ;
+  i < Q ;
+  i ++ ) for ( int j = 0 ;
+  j < W ;
+  j ++ ) pos [ Aij . get ( i ) . get ( j ) ] = new int [ H * W + 1 ] ;
+  for ( int i = 0 ;
+  i < Q ;
+  i ++ ) for ( int j = 0 ;
+  j < W ;
+  j ++ ) pos [ Aij . get ( i ) . get ( j ) ] = new int [ W ] ;
+  for ( int i = 0 ;
+  i < Q ;
+  i ++ ) for ( int j = 0 ;
+  j < W ;
+  j ++ ) pos [ Aij . get ( i ) . get ( j ) ] = new int [ W ] ;
+  for ( int i = 0 ;
+  i < Q ;
+  i ++ ) for ( int j = 0 ;
+  j < Q ;
+  j ++ ) pos [ Aij . get ( i ) . get ( j ) ] = new int [ W ] ;
+  for ( int i = 0 ;
+  i < Q ;
+  i ++ ) for ( int j = 0 ;
+  j < Q ;
+  j ++ ) pos [ Aij . get ( i ) . get ( j ) ] = new int [ W ] ;
+  for ( int i = 0 ;
+  i < Q ;
+  i ++ ) {
+    int

@@ -1,0 +1,5 @@
+def main ( ) : return 0
+def main ( ) :
+    MOD = 1000000007
+    def go ( ) :
+        global G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G , G ,

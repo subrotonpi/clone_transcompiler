@@ -1,0 +1,119 @@
+def _main ( ) : return _main ( )
+import sys
+import os
+import os
+import sys
+import os
+import math
+import string
+import string
+import string
+import string
+import string
+import string
+import string
+import string
+import string
+import string
+import string
+import string
+import string
+import string
+import string
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+global _main
+from string import string
+from string import string
+from string import atoi , string , integer , string , integer
+from string import atoi , string , integer , integer , string
+from string import string , string , integer , string , integer , string
+_main = _main
+_main = _main
+_main = _main
+_main = _main
+_main = _main

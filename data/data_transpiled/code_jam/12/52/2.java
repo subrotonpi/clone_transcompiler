@@ -1,0 +1,31 @@
+static final boolean checkRing ( int x , int y ) {
+  if ( ( x = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( x = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( x = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( x = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( x = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( x = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( x = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( x = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( x = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( x = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( x = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( x = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y = 1 ) == ( y = 1 ) ) return true ;
+  if ( ( y

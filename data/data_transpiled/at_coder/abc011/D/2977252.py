@@ -1,0 +1,9 @@
+def _import ( ) :
+    from io import StringIO
+    from math import Decimal
+    from math import sin , cos , exp
+    from math import sin , cos , exp
+    from math import sin , cos , exp
+    from math import sin , cos , exp
+    from math import sin , cos , exp
+    from math import sin , cos , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , exp , sin , exp , sin , exp , sin , exp , exp , sin , exp , sin , exp , sin , exp , exp , sin , exp , sin , exp , exp , sin , exp , exp , sin , exp , exp , sin , exp , sin , exp , exp , sin , exp , exp , sin , exp , exp , sin , exp , exp , sin , exp , exp , sin , exp , exp , sin , exp , exp , sin , exp , exp , sin , exp , exp , sin , exp , exp , sin , exp , exp , sin , exp , exp , sin , exp , exp , sin , exp , sin , exp , exp , sin , exp , sin , exp , exp , sin , exp , sin , exp , sin , exp , exp , sin , exp , sin , exp , sin , exp , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp , sin , exp ,

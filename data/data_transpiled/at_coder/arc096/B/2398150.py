@@ -1,0 +1,55 @@
+def main ( ) :
+    import sys
+    from numpy import arange
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float32
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float32
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float32
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float32
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float32
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float32
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float32
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float32
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    from numpy.core import zeros , float64
+    print ( zeros ( shape ) )

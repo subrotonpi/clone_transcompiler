@@ -1,0 +1,36 @@
+public static void main ( String input ) {
+  int n = Integer . parseInt ( input ) ;
+  int m = Integer . parseInt ( input ) ;
+  int q = Integer . parseInt ( input ) ;
+  int [ ] [ ] lr = new int [ m ] [ ] ;
+  for ( int i = 0 ;
+  i < m ;
+  i ++ ) lr [ i ] [ 0 ] = Integer . parseInt ( input ) ;
+  int [ ] [ ] pq = new int [ q ] [ ] ;
+  for ( int i = 0 ;
+  i < q ;
+  i ++ ) pq [ i ] [ 0 ] = Integer . parseInt ( input ) ;
+  int [ ] [ ] field = new int [ n + 1 ] [ n + 1 ] ;
+  int [ ] [ ] cumsum = new int [ n + 1 ] [ n + 1 ] ;
+  for ( int i = 0 ;
+  i < lr . length ;
+  i ++ ) field [ lr [ i ] [ 0 ] ] [ lr [ i ] [ 1 ] ] ++ ;
+  for ( int i = 1 ;
+  i <= n ;
+  i ++ ) for ( int j = 1 ;
+  j <= n ;
+  j ++ ) cumsum [ i ] [ j ] = field [ i ] [ j ] + cumsum [ i ] [ j - 1 ] ;
+  for ( int i = 1 ;
+  i <= n ;
+  i ++ ) for ( int j = 1 ;
+  j <= n ;
+  j ++ ) cumsum [ i ] [ j ] += cumsum [ i - 1 ] [ j ] ;
+  for ( int i = 1 ;
+  i <= n ;
+  i ++ ) for ( int j = 1 ;
+  j <= n ;
+  j ++ ) cumsum [ i ] [ j ] += cumsum [ i - 1 ] [ j ] ;
+  for ( int i = 0 ;
+  i < pq . length ;
+  i ++ ) System . out . println ( cumsum [ q ] [ q ] - cumsum [ p - 1 ] [ q ] - cumsum [ q ] [ p - 1 ] + cumsum [ p - 1 ] [ p - 1 ] ) ;
+}

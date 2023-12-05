@@ -1,0 +1,9 @@
+static void solve ( String s , List < Point > p , List < String > v ) throws IOException {
+  int n = p . size ( ) ;
+  {
+    double dist = Math . sqrt ( ( p . get ( i ) . x - p . get ( j ) . x ) * ( p . get ( i ) . x - p . get ( j ) . x ) + ( p . get ( i ) . y - p . get ( j ) . y ) * ( p . get ( i ) . y - p . get ( j ) . y ) + ( p . get ( i ) . z - p . get ( j ) . z ) * ( p . get ( i ) . z - p . get ( j ) . z ) ) ;
+  }
+  List < Edge > edges = new ArrayList < Edge > ( ) ;
+  for ( int i : xrange ( n ) ) {
+    for ( int j : xrange ( i + 1 , n ) ) {
+      edges . add ( new Edge ( dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist , dist ,
