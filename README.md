@@ -2,7 +2,36 @@
 Code for paper, "Pathways to Leverage Transcompiler based Data Augmentation for Cross-Language Clone Detection", ICPC 2023
 
 
-### Links to the required model and other repositories
+## Installation
+
+To set up the project, follow these steps:
+
+1. Install dependencies by executing the following scripts:
+   - `install_server.sh`
+   - `srcml_dep.sh`
+   - `requirements.txt`
+
+## Model Training and Testing
+
+To train or test the models, it is recommended to use a virtual environment. Follow the specific requirements outlined in the `requirements.txt` file. For additional model-specific instructions, refer to the repository of the target model.
+
+## Setting up ANTLR and Transcoder
+
+Detailed instructions for setting up ANTLR and Transcoder can be found in the following files:
+   - `setup_antlr.txt`
+   - `setup_transcoder.txt`
+
+## Clone Pairs and Dataset Generation
+
+To generate clone pairs and datasets, follow these steps:
+
+1. Run the provided notebooks sequentially, ensuring dependencies are met, such as:
+   - Feature extraction using ANTLR (find in CLCDSA repo)
+   - Utilize the clone pairs generation method provided in the CLCDSA repo (requires Java)
+
+For more information, refer to the respective repositories and documentation.
+
+### Links to the required models and other repositories
 - Pre-trained model
   - [Transcoder: Unsupervised Translation of Programming Languages](https://github.com/facebookresearch/CodeGen/blob/main/docs/transcoder.md)
 - Cross-Language Clone Detection Models
@@ -13,24 +42,6 @@ Code for paper, "Pathways to Leverage Transcompiler based Data Augmentation for 
 - Parsers:
   - [Javalang](https://github.com/c2nes/javalang)
   - [srcML](https://www.srcml.org/)
-
-
-
-- Install the dependencies from
-  - install_server.sh
-  - srcml_dep.sh
-  - requirements.txt
-    
--  To train/test the models
-   - use a virtual environment and follow specific requirements
-   - given in the requirements file or check from the target model's repository
-- Details about setting up ANTLR, Transcoder can be found in: 
-  - setup_antlr.txt
-  -  setup_transcoder.txt
--  To get the clone pairs and dataset generation
-   -  run the notebooks sequentially and the dependency in between, such as -
-      -   feature extraction using ANTLR (find in CLCDSA repo)
-      -   use the clone pairs generation method provided in the CLCDSA repo (requires Java)
 
 
   
