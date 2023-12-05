@@ -164,17 +164,17 @@ def tour_de_tree(current_node, vocab_dict, node_list, node_index_list, edge_src,
                 node_index_list.append([nindli])
                 add_edge(parent_id, n_id, edge_src, edge_tgt)
                 
-    #edge_index=[edge_src, edge_tgt]    
-    # if len(current_node) == 0:
-    #     return
+    #add src tgt to edge index
+    # edge_index=[edge_src, edge_tgt]
+    if len(current_node) == 0:
+        return
     #visit all children            
     for child in current_node:
         _ = tour_de_tree(child, vocab_dict, node_list, node_index_list, edge_src, edge_tgt, current_node_id)
-    
-    #add src tgt to edge index
-    edge_index=[edge_src, edge_tgt]
             
-    return node_list, node_index_list, edge_index #[edge_src, edge_tgt]
+    # edge_index=[edge_src, edge_tgt]
+            
+    return node_list, node_index_list, [edge_src, edge_tgt]
 
 def get_graph_data(xml_asts, vocab_dict, graph_data={}):
     for id_, tree in xml_asts.items():
