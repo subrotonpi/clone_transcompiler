@@ -24,26 +24,31 @@ Detailed instructions for setting up ANTLR and Transcoder can be found in the fo
 ## Clone Pairs and Dataset Generation
 
 To generate clone pairs and datasets, follow these steps:
-
-1. Run the provided notebooks sequentially, ensuring dependencies are met, such as:
+   - Run the provided notebooks sequentially, ensuring dependencies are met
    - Feature extraction using ANTLR (find in CLCDSA repo)
    - Utilize the clone pairs generation method provided in the CLCDSA repo (requires Java)
 
 For more information, refer to the respective repositories and documentation.
 
-### Links to the required models and other repositories
-- Pre-trained model
+
+## Required Models and Other Repositories
+
+- **Pre-trained Model**
   - [Transcoder: Unsupervised Translation of Programming Languages](https://github.com/facebookresearch/CodeGen/blob/main/docs/transcoder.md)
-- Cross-Language Clone Detection Models
+
+- **Cross-Language Clone Detection Models**
   - [CLCDSA: Cross-Language Code Clone Detection using Syntactical Features and API Documentation](https://github.com/Kawser-nerd/CLCDSA)
   - [C4: Contrastive Cross-Language Code Clone Detection](https://github.com/Chenning-Tao/C4)
-- Graph Matching Network for single-language clones
+
+- **Graph Matching Network for Single-Language Clones**
   - [GMN: Detecting Code Clones with Graph Neural Network and Flow-Augmented Abstract Syntax Tree](https://github.com/jacobwwh/graphmatch_clone)
-- Parsers:
+
+- **Parsers**
   - [Javalang](https://github.com/c2nes/javalang)
   - [srcML](https://www.srcml.org/)
 
 
   
 ### Contact
- Subroto Nag Pinku, subroto.npi@usask.ca
+
+Subroto Nag Pinku, [subroto.npi@usask.ca](mailto:subroto.npi@usask.ca)
